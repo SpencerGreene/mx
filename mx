@@ -30,9 +30,12 @@ MGWs = {
     "yahoodns"    : "Yahoo!"
 }
 
+TLDs = [ ".com", ".co.jp", ".com.au", ".co.uk", ".com.cn", ".ru" ]
+
 import dns.resolver
 import sys
 import fileinput
+import re
 
 def parse_stdin_csv():
     result = []
@@ -62,7 +65,11 @@ for record in records:
     company = record[0]
     domain = record[1]
     answers = []
-    base_domain = ''.join(domain.split('.')[:-1])
+
+    base_domain = domain
+    for tld in TLDs:
+        if base_domain[-len(tld):] == tld:
+            base_domain = base_domain[:-len(tld)]
 
     try:
         answers = dns.resolver.query(domain, 'MX')
@@ -90,4 +97,4 @@ for record in records:
             interpreted = "own-domain"
 
         # print base_domain, ",", sgw, ",", interpreted, ",", mx
-        print_record(company, base_domain, sgw, interpreted, mx)
+        print_record(company, domain, sgw, interpreted, mx)

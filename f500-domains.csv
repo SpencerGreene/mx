@@ -16,9 +16,8 @@
 16,Fannie Mae,fanniemae.com
 17,Kroger,kroger.com
 18,Amazon.com,amazon.com
-19,Walgreens Boots Alliance,walgreensbootsalliance.com
-,Walgreens,walgreens.com
-,Boots,boots.com
+19,Walgreens,walgreens.com
+19,Boots,boots.com
 20,HP,hp.com
 21,Cardinal Health,cardinal.com
 22,Express Scripts Holding,express-scripts.com
@@ -59,10 +58,9 @@
 57,Sysco,sysco.com
 58,FedEx,fedex.com
 59,Caterpillar,cat.com
-60,Lockheed Martin,lockheedmartin.com
+60,Lockheed Martin,lmco.com
 61,New York Life Insurance,newyorklife.com
-62,Coca-Cola,coca-colacompany.com
-,Coca-Cola,coca-cola.com
+62,Coca-Cola,coca-cola.com
 63,HCA Holdings,hcahealthcare.com
 64,Ingram Micro,ingrammicro.com
 65,Energy Transfer Equity,energytransfer.com
@@ -73,22 +71,22 @@
 70,Johnson Controls,jci.com
 71,Best Buy,bestbuy.com
 72,Merck,merck.com
-73,Liberty Mutual Insurance Group,libertymutual.com
+73,Liberty Mutual Insurance Group,lmig.com
 74,Goldman Sachs Group,gs.com
 75,Honeywell International,honeywell.com
 76,Massachusetts Mutual Life Insurance,massmutual.com
 77,Oracle,oracle.com
 78,Morgan Stanley,morganstanley.com
 79,Cigna,cigna.com
-80,United Continental Holdings,united.com
+80,United Continental Holdings,ual.com
 81,Allstate,allstate.com
 82,TIAA,tiaa.org
 83,INTL FCStone,intlfcstone.com
 84,CHS,chsinc.com
-85,American Express,americanexpress.com
+85,American Express,aexp.com
 86,Gilead Sciences,gilead.com
 87,Publix Super Markets,publix.com
-88,General Dynamics,generaldynamics.com
+88,General Dynamics,gendyn.com
 89,TJX,tjx.com
 90,ConocoPhillips,conocophillips.com
 91,Nike,nike.com
@@ -105,7 +103,7 @@
 102,Avnet,avnet.com
 103,Macy’s,macys.com
 104,Enterprise Products Partners,eprod.com
-105,Travelers Cos.,travelers.com
+105,Travelers Cos.,spt.com
 106,Philip Morris International,pmi.com
 107,Rite Aid,riteaid.com
 108,Tech Data,techdata.com
@@ -183,7 +181,7 @@
 175,Freeport-McMoRan,fmi.com
 176,ConAgra Foods,conagrafoods.com
 177,Gap,gapinc.com
-178,Baker Hughes,bakerhughes.com
+178,Baker Hughes,bhi-net.com
 179,Bank of New York Mellon Corp.,bnymellon.com
 180,Dollar Tree,dollartree.com
 181,Whole Foods Market,wholefoods.com
@@ -220,8 +218,7 @@
 212,Synnex,synnex.com
 213,Viacom,viacom.com
 214,HollyFrontier,hollyfrontier.com
-215,Land O’Lakes,landolakesinc.com
-,Land O’Lakes,landolakes.com
+215,Land O Lakes,landolakes.com
 216,Devon Energy,dvn.com
 217,PBF Energy,pbfenergy.com
 218,Yum Brands,yum.com
@@ -252,7 +249,7 @@
 243,Dominion Resources,dom.com
 244,United States Steel,uss.com
 245,L-3 Communications,l-3com.com
-246,Edison International,edisonintl.com
+246,Edison International,sce.com
 247,Entergy,entergy.com
 248,ADP,adp.com
 249,First Data,firstdata.com
@@ -281,7 +278,7 @@
 270,Norfolk Southern,nscorp.com
 271,Reinsurance Group of America,rgare.com
 272,Public Service Enterprise Group,pseg.com
-273,BB&T Corp.,bbt.com
+273,BB&T Corp.,bbandt.com
 274,DTE Energy,dteenergy.com
 275,Assurant,assurant.com
 276,Global Partners,globalp.com
@@ -441,8 +438,7 @@
 424,Oshkosh,oshkoshcorp.com
 425,Ameren,ameren.com
 426,A-Mark Precious Metals,amark.com
-427,Barnes & Noble,barnesandnobleinc.com
-,Barnes & Noble,bn.com
+427,Barnes & Noble,bn.com
 428,Dana Holding,dana.com
 429,Constellation Brands,cbrands.com
 430,LifePoint Health,lifepointhealth.net
@@ -497,10 +493,10 @@
 476,Markel,markelcorp.com
 477,Essendant,essendant.com
 478,CH2M Hill,ch2m.com
-479,Western & Southern Financial Group,westernsouthern.com
+479,Western & Southern Financial Group,wsfgrp.com
 480,Owens Corning,owenscorning.com
 481,S&P Global,spglobal.com
-482,Raymond James Financial,raymondjames.com
+482,Raymond James Financial,rjf.com
 483,NiSource,nisource.com
 484,Airgas,airgas.com
 485,ABM Industries,abm.com
@@ -518,4 +514,4 @@
 497,First American Financial,firstam.com
 498,NVR,nvrinc.com
 499,Cincinnati Financial,cinfin.com
-500,Burlington Stores,burlingtonstores.com
+500,Burlington Stores,coat.com

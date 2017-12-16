@@ -4,8 +4,30 @@
 debug = 1
 
 SGWs = {
-    "pphosted" : "ProofPoint",
+    "pphosted"    : "ProofPoint",
     "messagelabs" : "MessageLabs",
+    "mimecast"    : "Mimecast",
+    "iphmx"       : "Cisco",
+    "trendmicro"  : "Trend Micro",
+    "snwlhosted"  : "Sonic Wall",
+    "mailcontrol" : "Forcepoint",
+    "barracuda"   : "Barracuda",
+    "markmonitor" : "MarkMonitor",
+    "ctmail"      : "Cyren Web Security",
+    "cscdns"      : "CSC Global",
+    "fireeye"     : "FireEye",
+    "spamexperts" : "SpamExperts / SolarWinds"
+}
+
+MGWs = {
+    "outlook"     : "Office365",
+    "google"      : "Google",
+    "GOOGLE"      : "Google",
+    "psmtp"       : "Google",
+    "zoho"        : "Zoho",
+    "secureserver": "GoDaddy",
+    "emailsrvr"   : "emailsrvr.com",
+    "yahoodns"    : "Yahoo!"
 }
 
 import dns.resolver
@@ -27,13 +49,20 @@ if len(sys.argv) > 1:
 else:
     records = parse_stdin_csv()
 
-print_record("Company", "Domain", "SecurityGateway", "MailGateway", "MX")
+def find_gateway(mx, gateway_dict):
+    for hostname in gateway_dict:
+        if hostname in mx:
+            return gateway_dict[hostname]
+    return ""
+
+# begin
+print_record("Company", "Domain", "SecurityGateway", "Mail Domain", "MX")
 
 for record in records:
     company = record[0]
     domain = record[1]
     answers = []
-    base_domain = domain[:-4]
+    base_domain = ''.join(domain.split('.')[:-1])
 
     try:
         answers = dns.resolver.query(domain, 'MX')
@@ -48,57 +77,17 @@ for record in records:
             if rdata.preference < shortest.preference:
                 shortest = rdata
 
-        sgw = ""
         mx = str(shortest.exchange)[:-1]
-
         base_mx = mx[:-4]
-        interpreted = ""
 
-        if "pphosted" in mx:
-            sgw = "ProofPoint"
+        sgw = find_gateway(mx, SGWs)
+        if sgw > "":
             interpreted = "unknown"
+        else:
+            interpreted = find_gateway(mx, MGWs)
 
-        if "outlook" in mx:
-            interpreted = "Office 365"
-        elif base_domain in base_mx:
+        if interpreted == "" and base_domain in base_mx:
             interpreted = "own-domain"
-
-        if "google" in mx or "GOOGLE" in mx:
-            interpreted = "Google"
-
-        if "secureserver.net" in mx:
-            interpreted = "GoDaddy"
-
-        if "messagelabs" in mx:
-            sgw = "MessageLabs"
-            interpreted = "unknown"
-
-        if "trendmicro" in mx:
-            sgw = "Trend Micro"
-            interpreted = "unknown"
-
-        if "mimecast" in mx:
-            sgw = "Mimecast"
-            interpreted = "unknown"
-
-        if "mailcontrol.com" in mx:
-            sgw = "Forcepoint"
-            interpreted = "unknown"
-
-        if "iphmx" in mx:
-            sgw = "Cisco"
-            interpreted = "unknown"
-
-        if "snwlhosted" in mx:
-            sgw = "SonicWall"
-            interpreted = "unknown"
-
-        if "barracuda" in mx:
-            sgw = "Barracuda"
-            interpreted = "unknown"
-
-        if "zoho" in mx:
-            interpreted = "Zoho"
 
         # print base_domain, ",", sgw, ",", interpreted, ",", mx
         print_record(company, base_domain, sgw, interpreted, mx)

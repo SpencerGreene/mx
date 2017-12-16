@@ -1,0 +1,104 @@
+#!/usr/bin/python
+#
+
+debug = 1
+
+SGWs = {
+    "pphosted" : "ProofPoint",
+    "messagelabs" : "MessageLabs",
+}
+
+import dns.resolver
+import sys
+import fileinput
+
+def parse_stdin_csv():
+    result = []
+    for line in fileinput.input():
+        words = line.rstrip("\r\n").split(',')
+        result.append([words[1], words[2]])
+    return result
+
+def print_record(company, domain, sgw, mgw, mx):
+    print company, ",", domain, ",", sgw, ",", mgw, ",", mx
+
+if len(sys.argv) > 1:
+    records = [ ["", d] for d in sys.argv[1:]]
+else:
+    records = parse_stdin_csv()
+
+print_record("Company", "Domain", "SecurityGateway", "MailGateway", "MX")
+
+for record in records:
+    company = record[0]
+    domain = record[1]
+    answers = []
+    base_domain = domain[:-4]
+
+    try:
+        answers = dns.resolver.query(domain, 'MX')
+    except:
+        print >> sys.stderr, "I couldn't find " + domain
+        print_record(company, base_domain, "", "", "")
+        # print base_domain, ", , , NO MX RECORD"
+
+    if len(answers):
+        shortest = answers[0]
+        for rdata in answers[1:]:
+            if rdata.preference < shortest.preference:
+                shortest = rdata
+
+        sgw = ""
+        mx = str(shortest.exchange)[:-1]
+
+        base_mx = mx[:-4]
+        interpreted = ""
+
+        if "pphosted" in mx:
+            sgw = "ProofPoint"
+            interpreted = "unknown"
+
+        if "outlook" in mx:
+            interpreted = "Office 365"
+        elif base_domain in base_mx:
+            interpreted = "own-domain"
+
+        if "google" in mx or "GOOGLE" in mx:
+            interpreted = "Google"
+
+        if "secureserver.net" in mx:
+            interpreted = "GoDaddy"
+
+        if "messagelabs" in mx:
+            sgw = "MessageLabs"
+            interpreted = "unknown"
+
+        if "trendmicro" in mx:
+            sgw = "Trend Micro"
+            interpreted = "unknown"
+
+        if "mimecast" in mx:
+            sgw = "Mimecast"
+            interpreted = "unknown"
+
+        if "mailcontrol.com" in mx:
+            sgw = "Forcepoint"
+            interpreted = "unknown"
+
+        if "iphmx" in mx:
+            sgw = "Cisco"
+            interpreted = "unknown"
+
+        if "snwlhosted" in mx:
+            sgw = "SonicWall"
+            interpreted = "unknown"
+
+        if "barracuda" in mx:
+            sgw = "Barracuda"
+            interpreted = "unknown"
+
+        if "zoho" in mx:
+            interpreted = "Zoho"
+
+        # print base_domain, ",", sgw, ",", interpreted, ",", mx
+        print_record(company, base_domain, sgw, interpreted, mx)

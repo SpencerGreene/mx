@@ -1,268 +1,268 @@
 Company , Domain , SecurityGateway , Mail Domain , MX
-Sinopec Group , sinopec ,  , own-domain , mailmx4.sinopec.com
-Volkswagen , volkswagen ,  ,  , mg1.vw.com
-U.S. Postal Service , usps ,  , own-domain , gk-c-mail.srvs.usps.gov
-Compass Group , compass ,  , Google , aspmx.l.google.com
-Gazprom , gazprom ,  ,  , mailrelay.gazprom.ru
-CHS , chs , Barracuda , unknown , d63761a.ess.barracudanetworks.com
-BMW , bmw , Cisco , unknown , mx1.bmw.c3s2.iphmx.com
-Air France-KLM Group , klm , Cisco , unknown , mx1.afkl.c3s2.iphmx.com
-Air France-KLM Group , airfrance , Cisco , unknown , mx1.afkl.c3s2.iphmx.com
-Siemens , siemens ,  , own-domain , hylas.siemens.com
-Vale , vale , Cisco , unknown , esa1.vale.iphmx.com
-Finatis , finatis ,  , own-domain , mail.finatis.com
-Nestle, nestle ,  , Office365 , nestle-com.mail.protection.outlook.com
-Edeka Zentrale , edeka ,  ,  , mailin.edeka.de
-Hitachi , hitachi ,  , own-domain , hitiij.hitachi.co.jp
-Groupe Auchan , auchan ,  , Google , aspmx.l.google.com
-Sberbank , sberbank ,  ,  , email1.sberbank.ru
-EXOR Group , exor ,  ,  , milter2.gruppoifi.com
-Samsung Electronics , samsung ,  , own-domain , mailin.samsung.com
-Rolls-Royce Holdings , rolls-royce , Cisco , unknown , mx1.rolls-royce.c3s2.iphmx.com
-Bosch , bosch ,  , own-domain , de-in1.bosch-org.com
-Hutchison Whampoa , hutch ,  , own-domain , mailgw1.mail.hutch.net
-Daimler , daimler ,  , own-domain , mail-in.daimler.com
-HSBC Holdings , hsbc ,  , own-domain , symailserver.hsbc.co.uk
-Panasonic , panasonicco ,  ,  , smtp.mei.co.jp
+Sinopec Group , sinopec.com ,  , own-domain , mailmx4.sinopec.com
+Volkswagen , vw.com ,  , own-domain , mg1.vw.com
+U.S. Postal Service , usps.com ,  , own-domain , gk-c-mail.srvs.usps.gov
+Compass Group , compass.com ,  , Google , aspmx.l.google.com
+Gazprom , gazprom.com ,  ,  , mailrelay.gazprom.ru
+Jardine Matheson , jardines.com , MessageLabs , unknown , cluster1.hk.messagelabs.com
+Sodexo , sodexo.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Tesco , tesco.com , Forcepoint , unknown , cust7886-2.in.mailcontrol.com
+Carrefour , carrefour.com , ProofPoint , unknown , mxa-00150901.gslb.pphosted.com
+Siemens , siemens.com ,  , own-domain , hephaistos.siemens.com
+Toyota Motor , toyota.com , ProofPoint , unknown , mxa-001f1301.gslb.pphosted.com
+Finatis , finatis.com ,  , own-domain , mail.finatis.com
+Nestle , nestle.com ,  , Office365 , nestle-com.mail.protection.outlook.com
+Edeka Zentrale , edeka.com ,  ,  , mailin.edeka.de
+Hitachi , hitachi.com ,  , own-domain , hitiij.hitachi.co.jp
+Groupe Auchan , auchan.com ,  , Google , aspmx.l.google.com
+Sberbank , sberbank.ru ,  ,  , email1.sberbank.ru
+EXOR Group , exor.com ,  ,  , milter1.gruppoifi.com
+Samsung Electronics , samsung.com ,  , own-domain , mailin.samsung.com
+Accenture , accenture.com , ProofPoint , unknown , mx0a-001dcc01.pphosted.com
+Bosch , bosch.com ,  , own-domain , de-in2.bosch-org.com
+Hutchison Whampoa , hutch.net ,  ,  , mailgw1.mail.hutch.net
+Daimler , daimler.com ,  , own-domain , mail-in.daimler.com
+HSBC Holdings , hsbc.com ,  , own-domain , nwmailserver.hsbc.co.uk
+Panasonic , panasonic.co.jp ,  ,  , smtp.mei.co.jp
 AEON , aeon ,  ,  , 
-Rosneft Oil , rosneft ,  ,  , mail10.rosneft.ru
-SNCF , sncf ,  ,  , mail-lyon3.sncf.fr
-Nippon Tel. & Tel. , ntt ,  , own-domain , cmcodfcs01.noc.ntt.com
-Sumitomo Electric Industries , sumitomo ,  , own-domain , mgex2.sumitomo.com
+Rosneft Oil , rosneft.ru ,  ,  , mail10.rosneft.ru
+SNCF , sncf.com ,  ,  , mail-lyon3.sncf.fr
+Nippon Tel. & Tel. , ntt.com ,  , own-domain , cmcodfcs01.noc.ntt.com
+Sumitomo Electric Industries , sumitomo.com ,  , own-domain , mgex1.sumitomo.com
 Henan Energy & Chemical , henan ,  ,  , 
-Sharp , sharp , Cisco , unknown , mx1.sharp.iphmx.com
-ArcelorMittal , arcelormittal ,  , own-domain , mx1.geoip.arcelormittal.com
-Shanxi Coking Coal Group , sxcccom ,  ,  , mxa2.chinaemail.cn
-Ansteel Group , ansteel ,  ,  , mx1.ansteel.cn
-JBS , jbs ,  ,  , mhs02.jbs.jp
-Fresenius , fresenius ,  ,  , mgw5.fresenius.de
-Shenhua Group , shenhua ,  ,  , mail.skrimple.com
-Shandong Energy Group , snjt ,  , own-domain , mail.snjt.com
-Honda Motor , honda ,  , own-domain , ahmppv2.honda.com
-LyondellBasell Industries , lyondellbasell , Cisco , unknown , mx1.lyondellbasell.iphmx.com
-Toshiba , toshiba ,  , Office365 , toshiba-com.mail.protection.outlook.com
-Woolworths , woolworthscom ,  , Google , aspmx.l.google.com
-Dongfeng Motor Group , dongfeng ,  ,  , mail.skrimple.com
-HCA Holdings , hca ,  , own-domain , mail1.hca.com
-Pegatron , pegatron ,  ,  , mail2.siteamerica.com
-Weston , weston ,  , Office365 , weston-com.mail.protection.outlook.com
-Onex , onex ,  , own-domain , mailto.onex.com
-Canon , canon ,  ,  , mail.canon.jp
-Peugeot , peugeot ,  ,  , mail.mpsa.com
-Continental , continental-corporation ,  ,  , mailin4.rmx.de
-Banco Santander , santander ,  , own-domain , smtp.santandergroup.net
-Vinci , vinci ,  ,  , mx1.vinci.fr
-Saint-Gobain , saint-gobain ,  , own-domain , mail8.saint-gobain.com
-BNP Paribas , bnp ,  ,  , mx.usa.net
-CITIC Group , citic ,  ,  , mxbiz1.qq.com
-Unilever , unilever ,  , Office365 , unilever-com.mail.protection.outlook.com
-Huawei Investment & Holding , huawei ,  , own-domain , mx5.huawei.com
-Schneider Electric , schneider ,  , Office365 , schneider-com.mail.protection.outlook.com
+Metro , metro.com , Trend Micro , unknown , in.hes.trendmicro.com
+ArcelorMittal , arcelormittal.com ,  , own-domain , mx1.geoip.arcelormittal.com
+Shanxi Coking Coal Group , sxcc.com.cn ,  ,  , mxa2.chinaemail.cn
+Ansteel Group , ansteel.cn ,  ,  , mx1.ansteel.cn
+JBS , jbs.com ,  ,  , mhs02.jbs.jp
+Fresenius , fresenius.com ,  ,  , mgw5.fresenius.de
+Shenhua Group , shenhua.com ,  ,  , mail.skrimple.com
+Shandong Energy Group , snjt.com ,  , own-domain , mail.snjt.com
+Honda Motor , honda.com ,  , own-domain , ahmppv2.honda.com
+Wesfarmers , wesfarmers.com.au , MessageLabs , unknown , cluster6.us.messagelabs.com
+Toshiba , toshiba.com ,  , Office365 , toshiba-com.mail.protection.outlook.com
+Woolworths , woolworths.com.au ,  , Google , aspmx.l.google.com
+Dongfeng Motor Group , dongfeng.com ,  ,  , mail.skrimple.com
+HCA Holdings , hca.com ,  , own-domain , mail1.hca.com
+Pegatron , pegatron.com ,  ,  , mail2.siteamerica.com
+Weston , weston.com ,  , Office365 , weston-com.mail.protection.outlook.com
+Onex , onex.com ,  , own-domain , mailto.onex.com
+Canon , canon.jp ,  ,  , mail.canon.jp
+Peugeot , peugeot.com ,  ,  , mail1.mpsa.com
+Continental , continental-corporation.com ,  ,  , mailin3.rmx.de
+Banco Santander , santander.com ,  , own-domain , smtp.santandergroup.net
+Vinci , vinci.fr ,  ,  , mx1.vinci.fr
+Saint-Gobain , saint-gobain.com ,  , own-domain , mail9.saint-gobain.com
+BNP Paribas , bnp.com ,  ,  , mx.usa.net
+CITIC Group , citic.com ,  ,  , mxbiz1.qq.com
+Unilever , unilever.com ,  , Office365 , unilever-com.mail.protection.outlook.com
+Huawei Investment & Holding , huawei.com ,  , own-domain , mx5.huawei.com
+Schneider Electric , schneider.com ,  , Office365 , schneider-com.mail.protection.outlook.com
 Datong Coal Mine Group , datong ,  ,  , 
-ThyssenKrupp , thyssenkrupp ,  ,  , dsc-ffm-mx1.mas.t-systems-service.com
-Veolia Environnement , veolia ,  , Google , aspmx.l.google.com
-Fujitsu , fujitsu ,  , own-domain , mx2.jp.fujitsu.com
-Orange , orange ,  , own-domain , relais-aub03.orange.com
+ThyssenKrupp , thyssenkrupp.com ,  ,  , dsc-ffm-mx1.mas.t-systems-service.com
+Veolia Environnement , veolia.com ,  , Google , aspmx.l.google.com
+Fujitsu , fujitsu.com ,  , own-domain , mx1.jp.fujitsu.com
+Orange , orange.com ,  , own-domain , relais-nor19.orange.com
 Yangquan Coal Industry Group , yangquan ,  ,  , 
-Enbridge , enbridge , Cisco , unknown , esa1.enbridge.ca.iphmx.com
-Societe Generale , socgen ,  , own-domain , mail.iap.socgen.com
-PDVSA , pdvsa ,  , own-domain , mail.pdvsa.com
-Mondelez International , mondelez , CSC Global , unknown , custmx.cscdns.net
-Nissan Motor , nissan ,  , emailsrvr.com , mx1.emailsrvr.com
+Anheuser-Busch InBev , anheuser-busch.com , ProofPoint , unknown , mxb-000c8e03.gslb.pphosted.com
+Societe Generale , socgen.com ,  , own-domain , mail.iap.socgen.com
+PDVSA , pdvsa.com ,  , own-domain , mail.pdvsa.com
+Flextronics International , flextronics.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Nissan Motor , nissan.com ,  , emailsrvr.com , mx1.emailsrvr.com
 Jizhong Energy Group , jznyjt ,  ,  , 
-Allianz , grupoacs ,  , Office365 , grupoacs-com.mail.protection.outlook.com
-Denso , denso ,  , own-domain , ma-dnext00.denso.co.jp
-Shanxi Jincheng Anthracite Coal Mining , jamg ,  ,  , 10.0.66.29
-Pemex , pemex ,  , Office365 , pemex.mail.protection.outlook.com
-Bridgestone , bridgestone ,  , own-domain , bc610006.bridgestone.co.jp
-China Huaneng Group , chngcom ,  ,  , 124.17.25.194
-Shaanxi Yanchang Petroleum , sxycpc ,  , own-domain , mail.sxycpc.com
-ABB , abb ,  , Office365 , abb-com.mail.protection.outlook.com
-Shougang Group , shougang ,  ,  , mail.skrimple.com
-Airbus Group , airbus ,  , own-domain , vip-smtp.airbus.gmessaging.net
-Baosteel Group , baosteel ,  , own-domain , mailgw1.baosteel.com
-Rio Tinto Group , riotinto , FireEye , unknown , smf.inline.email.fireeyecloud.com
-Manulife Financial , manulife , FireEye , unknown , primary.us.email.fireeyecloud.com
-HeBei Iron & Steel Group , hbisco ,  , own-domain , mailzf.hbisco.com
-Sony , sony ,  , Office365 , sony-com.mail.protection.outlook.com
-Magna International , magna ,  , own-domain , mail1.magna.com
-Mitsubishi Electric , mitsubishi ,  , own-domain , mitsubishi.com
-UniCredit Group , unicredit ,  ,  , mx07.unicredit.eu
-Bouygues , bouygues ,  , Office365 , bouygues-com.mail.protection.outlook.com
-Royal Ahold , aholddelhaize ,  , Google , aspmx.l.google.com
-Mitsubishi UFJ Financial Group , mufg ,  ,  , msgw.bk.mufg.jp
-Telefonica , telefonica ,  , Office365 , telefonicacorp.mail.protection.outlook.com
+Allianz , grupoacs.com ,  , Office365 , grupoacs-com.mail.protection.outlook.com
+Denso , denso.com ,  , own-domain , ma-dnext00.denso.co.jp
+Shanxi Jincheng Anthracite Coal Mining , jamg.cn ,  ,  , 10.0.66.29
+Pemex , pemex.com ,  , Office365 , pemex.mail.protection.outlook.com
+Bridgestone , bridgestone.com ,  , own-domain , bc610006.bridgestone.co.jp
+China Huaneng Group , chng.com.cn ,  ,  , 124.17.25.194
+Shaanxi Yanchang Petroleum , sxycpc.com ,  , own-domain , mail.sxycpc.com
+ABB , abb.com ,  , Office365 , abb-com.mail.protection.outlook.com
+Shougang Group , shougang ,  ,  , 
+Airbus Group , airbus.com ,  , own-domain , vip-smtp.airbus.gmessaging.net
+Baosteel Group , baosteel.com ,  , own-domain , mailgw1.baosteel.com
+Novartis , novartis.com , ProofPoint , unknown , mx07-0019ad02.pphosted.com
+Barclays , barclays.com , MessageLabs , unknown , cluster3.eu.messagelabs.com
+HeBei Iron & Steel Group , hbisco.com ,  , own-domain , mailzf.hbisco.com
+Sony , sony.com ,  , Office365 , sony-com.mail.protection.outlook.com
+Magna International , magna.com ,  , own-domain , mail1.magna.com
+Mitsubishi Electric , mitsubishi.com ,  , own-domain , mitsubishi.com
+UniCredit Group , unicredit.com ,  ,  , mx01.unicredit.eu
+Bouygues , bouygues.com ,  , Office365 , bouygues-com.mail.protection.outlook.com
+Royal Ahold , aholddelhaize.com ,  , Google , aspmx.l.google.com
+Mitsubishi UFJ Financial Group , mufg.jp ,  ,  , msgw.bk.mufg.jp
+Telefonica , telefonica.com ,  , Office365 , telefonicacorp.mail.protection.outlook.com
 Shandong Weiqiao Pioneering , weiqiaocy ,  ,  , 
-Sinomach , sinomach ,  , Office365 , sinomach-com.mail.protection.partner.outlook.cn
-COFCO , cofco ,  , own-domain , mx1.cofco.com
-Quanta Computer , quanta ,  , own-domain , mail.quanta.com
-Schlumberger , schlumberger ,  ,  , mail8.reachmail.net
-A.P. Moller-Maersk A/S , maersk ,  , Office365 , maersk-com.mail.protection.outlook.com
-Bayer , bayer ,  ,  , smtpmx01.bayer.de
-Lufthansa Group , lufthansa ,  ,  , mx1.lhsystems.com
-Ericsson , ericsson ,  , own-domain , sessmg11.ericsson.net
+Sinomach , sinomach.com ,  , Office365 , sinomach-com.mail.protection.partner.outlook.cn
+COFCO , cofco.com ,  , own-domain , mx1.cofco.com
+Quanta Computer , quanta.com ,  , own-domain , mail-cr.quanta.com
+Schlumberger , schlumberger.com ,  ,  , mail8.reachmail.net
+A.P. Moller-Maersk A/S , maersk.com ,  , Office365 , maersk-com.mail.protection.outlook.com
+Bayer , bayer.com ,  ,  , smtpmx01.bayer.de
+Lufthansa Group , lufthansa.com ,  ,  , mx1.lhsystems.com
+Ericsson , ericsson.com ,  , own-domain , sesbmg13.ericsson.net
 Jinneng Group , jinneng ,  ,  , 
-Renault , renault ,  ,  , smtp.renault.fr
-Tesco , tesco , Forcepoint , unknown , cust7886-2.in.mailcontrol.com
-China National Offshore Oil , cnooccom ,  ,  , mail.cnooc.com.cn
-TUI , tui , Forcepoint , unknown , cust1976-1.in.mailcontrol.com
-Sanofi , sanofi ,  , own-domain , xspz10f564t.sanofi.com
-BASF , basf ,  , Office365 , basf.mail.protection.outlook.com
-China Communications Construction , ccccltd ,  ,  , mail.ccccltd.cn
-HNA Group , hna ,  , GoDaddy , smtp.secureserver.net
-Banco do Brasil , bbcom ,  ,  , srdfmailer01.bb.com.br
-Jardine Matheson , jardines , MessageLabs , unknown , cluster1.hk.messagelabs.com
-Lukoil , lukoil ,  , own-domain , gltb-mx1.lukoil.com
-Hyundai Motor , hyundai ,  , own-domain , mail.hyundai.com
-Royal Bank of Scotland Group , rbs ,  , own-domain , mail07.rbs.com
-Sodexo , sodexo , MessageLabs , unknown , cluster4.us.messagelabs.com
-Christian Dior , dior ,  , own-domain , mx.dior.com
-Glencore , glencore ,  , own-domain , mail1.glencore.com
-Wesfarmers , wesfarmerscom , MessageLabs , unknown , cluster6.us.messagelabs.com
-Flextronics International , flextronics , MessageLabs , unknown , cluster1.us.messagelabs.com
-Barclays , barclays , MessageLabs , unknown , cluster3.eu.messagelabs.com
-Wuhan Iron & Steel , wugangaustraliacom ,  ,  , 
-VTB Bank , vtb ,  ,  , post.vtb.ru
-Total , total ,  , own-domain , mail01.par.totalfinaelf.net
-China Datang , cccmeorg ,  ,  , qiye163mx01.mxmail.netease.com
-Sainsburys , sainsburys , MessageLabs , unknown , cluster1.eu.messagelabs.com
-ChemChina , chemchina ,  , own-domain , smtp01.chemchina.com
-NEC , nec ,  , Office365 , nec-com.mail.protection.outlook.com
-Volvo , volvo ,  , own-domain , mail-gw4.it.volvo.com
-Deutsche Bank , db ,  , own-domain , smtp14.db.com
-GlaxoSmithKline , gsk ,  , Office365 , gsk-com.mail.protection.outlook.com
-AXA , axa ,  , own-domain , mrelay2.axa.com
-Sinopharm , sinopharm ,  , own-domain , mail.sinopharm.com
-Michelin , michelin , MessageLabs , unknown , cluster1.eu.messagelabs.com
-Vodafone Group , vodafone , MessageLabs , unknown , cluster5.eu.messagelabs.com
-Royal Dutch Shell , shell ,  , Office365 , shell-com.mail.protection.outlook.com
-CFE , cfe ,  ,  , mail.rfe.net
-SAIC Motor , saic ,  , own-domain , EM-MXP20.saic.com
-Danone , danone , MessageLabs , unknown , cluster5.eu.messagelabs.com
-Alstom , alstom ,  , Office365 , alstom-com.mail.protection.outlook.com
-Intesa Sanpaolo , intesasanpaolo ,  , own-domain , mail1.intesasanpaolo.com
-Roche Group , roche ,  , own-domain , mailgate4.roche.com
-BT Group , bt ,  ,  , smtpe1.intersmtp.com
-Morrisons , morrisons ,  , Google , aspmx.l.google.com
-BP , bp , MessageLabs , unknown , cluster8.us.messagelabs.com
-Toronto-Dominion Bank , tdbank , MessageLabs , unknown , cluster5.us.messagelabs.com
-ENI , eni ,  , Office365 , enispa.mail.protection.outlook.com
-LG Electronics , lg ,  , own-domain , spam.lg.com
-Mitsubishi Heavy Industries , mhi ,  ,  , 
-SK Holdings , sk ,  , own-domain , spmail.sk.com
-CRH , crh , MessageLabs , unknown , cluster8.eu.messagelabs.com
-Petrobras , petrobras ,  , own-domain , correio2.petrobras.com.br
-Loreal , loreal ,  , own-domain , smtp1.loreal.com
-Lenovo Group , lenovo , MessageLabs , unknown , cluster9.us.messagelabs.com
-AstraZeneca , astrazeneca , MessageLabs , unknown , cluster8.eu.messagelabs.com
-Heineken Holding , heineken ,  , Office365 , heineken-com.mail.protection.outlook.com
-BAE Systems , bae ,  , own-domain , bae.com
-Mizuho Financial Group , mizuho , MessageLabs , unknown , cluster6.us.messagelabs.com
-Tata Motors , tata ,  , Office365 , tata-com.mail.protection.outlook.com
-Sumitomo , sumitomo ,  , own-domain , mgex2.sumitomo.com
-Migros Group , migros ,  ,  , migze122.migros.ch
-Royal Bank of Canada , rbc ,  , own-domain , vmx.rbc.com
-Credit Agricole , credit-agricole ,  ,  , mercure.credit-agricole.fr
-Mitsubishi Corp. , mitsubishi ,  , own-domain , mitsubishi.com
-Mitsui , mitsui , MessageLabs , unknown , cluster4.us.messagelabs.com
-ING Group , ing ,  , own-domain , mail101.ing.net
-Xinxing Cathay International , xxcig ,  ,  , mxbiz1.qq.com
+Renault , renault.com ,  ,  , smtp.renault.fr
+BMW , bmw.com , Cisco , unknown , mx1.bmw.c3s2.iphmx.com
+China National Offshore Oil , cnooc.com.cn ,  , own-domain , mail.cnooc.com.cn
+Delhaize Group , delhaize.com , ProofPoint , unknown , mxa-00259c01.gslb.pphosted.com
+Sanofi , sanofi.com ,  , own-domain , xspz10p120b.sanofi.com
+BASF , basf.com ,  , Office365 , basf.mail.protection.outlook.com
+China Communications Construction , ccccltd.cn ,  ,  , mail.ccccltd.cn
+HNA Group , hna.com ,  , GoDaddy , smtp.secureserver.net
+Banco do Brasil , bb.com.br ,  ,  , srdfmailer01.bb.com.br
+Itochu , itochu.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Lukoil , lukoil.com ,  , own-domain , gltb-mx3.lukoil.com
+Hyundai Motor , hyundai.com ,  , own-domain , mail.hyundai.com
+Royal Bank of Scotland Group , rbs.com ,  , own-domain , mail17.rbs.com
+Sainsburys , sainsburys.com , MessageLabs , unknown , cluster1.eu.messagelabs.com
+Christian Dior , dior.com ,  , own-domain , mx.dior.com
+Glencore , glencore.com ,  , own-domain , mail1.glencore.com
+Michelin , michelin.com , MessageLabs , unknown , cluster1.eu.messagelabs.com
+Vodafone Group , vodafone.com , MessageLabs , unknown , cluster5.eu.messagelabs.com
+Mondelez International , mondelez.com , CSC Global , unknown , custmx.cscdns.net
+Wuhan Iron & Steel , wugangaustralia ,  ,  , 
+VTB Bank , vtb.ru ,  ,  , post.vtb.ru
+Total , total.com ,  , own-domain , mail01.par.totalfinaelf.net
+China Datang , cccme.org.cn ,  ,  , qiye163mx01.mxmail.netease.com
+Danone , danone.com , MessageLabs , unknown , cluster5.eu.messagelabs.com
+ChemChina , chemchina.com ,  , own-domain , smtp01.chemchina.com
+NEC , nec.com ,  , Office365 , nec-com.mail.protection.outlook.com
+Volvo , volvo.com ,  , own-domain , mail-gw2.it.volvo.com
+Deutsche Bank , db.com ,  , own-domain , smtp1.db.com
+GlaxoSmithKline , gsk.com ,  , Office365 , gsk-com.mail.protection.outlook.com
+AXA , axa.com ,  , own-domain , mrelay2.axa.com
+Sinopharm , sinopharm.com ,  , own-domain , mail.sinopharm.com
+Air France-KLM Group , klm.com , Cisco , unknown , mx1.afkl.c3s2.iphmx.com
+Air France-KLM Group , airfrance.fr , Cisco , unknown , mx1.afkl.c3s2.iphmx.com
+Royal Dutch Shell , shell.com ,  , Office365 , shell-com.mail.protection.outlook.com
+CFE , cfe.com ,  ,  , mail.rfe.net
+SAIC Motor , saic.com ,  , own-domain , EM-MXP03.saic.com
+Wilmar International , wilmar.com , ProofPoint , unknown , mx0b-000e6603.pphosted.com
+Alstom , alstom.com ,  , Office365 , alstom-com.mail.protection.outlook.com
+Intesa Sanpaolo , intesasanpaolo.com ,  , own-domain , mail2.intesasanpaolo.com
+Roche Group , roche.com ,  , own-domain , mailgate3.roche.com
+BT Group , bt.com ,  , own-domain , smtpb1.bt.com
+Morrisons , morrisons.com ,  , Google , aspmx.l.google.com
+BP , bp.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Lloyds Banking Group , lloyds.com , ProofPoint , unknown , mxb-00164201.gslb.pphosted.com
+ENI , eni.com ,  , Office365 , enispa.mail.protection.outlook.com
+LG Electronics , lg.com ,  , own-domain , spam.lg.com
+Mitsubishi Heavy Industries , mhi.co.jp , MessageLabs , unknown , cluster1.us.messagelabs.com
+SK Holdings , sk.com ,  , own-domain , spmail.sk.com
+Toronto-Dominion Bank , tdbank.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Petrobras , petrobras.com ,  , own-domain , correio2.petrobras.com.br
+Loreal , loreal.com ,  , own-domain , smtp1.loreal.com
+TUI , tui.com , Forcepoint , unknown , cust1976-3.in.mailcontrol.com
+Vale , vale.com , Cisco , unknown , esa1.vale.iphmx.com
+Heineken Holding , heineken.com ,  , Office365 , heineken-com.mail.protection.outlook.com
+BAE Systems , bae.com ,  , own-domain , bae.com
+CRH , crh.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+Tata Motors , tata.com ,  , Office365 , tata-com.mail.protection.outlook.com
+Sumitomo , sumitomo.com ,  , own-domain , mgex1.sumitomo.com
+Migros Group , migros.com ,  ,  , migze122.migros.ch
+Royal Bank of Canada , rbc.com ,  , own-domain , vmx.rbc.com
+Credit Agricole , credit-agricole.fr ,  ,  , mercure.credit-agricole.fr
+Mitsubishi Corp. , mitsubishi.com ,  , own-domain , mitsubishi.com
+Enel , enel.com , ProofPoint , unknown , mxa-0023ba01.gslb.pphosted.com
+ING Group , ing.com ,  , own-domain , mail202.ing.net
+Xinxing Cathay International , xxcig.com ,  ,  , mxbiz1.qq.com
 Bohai Steel Group , bohai ,  ,  , 
-SoftBank Group , softbank ,  , Google , aspmx.l.google.com
-Coop Group , coop ,  ,  , mail21.coop.ch
-Compal Electronics , compal ,  , own-domain , exmail3.compal.com
-Guangzhou Automobile Industry Group , gagccom ,  ,  , mail.gagc.com.cn
-Old Mutual , oldmutualco ,  ,  , smtp.sifutures.com
+SoftBank Group , softbank.com ,  , Google , aspmx.l.google.com
+Coop Group , coop.ch ,  ,  , mail21.coop.ch
+Compal Electronics , compal.com ,  , own-domain , exmail3.compal.com
+Guangzhou Automobile Industry Group , gagc.com.cn ,  , own-domain , mail.gagc.com.cn
+Old Mutual , oldmutual.co.uk ,  ,  , smtp.sifutures.com
 Kailuan Group , kailuan ,  ,  , 
-UBS Group , ubs ,  , own-domain , mx14.ubs.open.ch
-SABIC , sabic , MessageLabs , unknown , cluster4.eu.messagelabs.com
-RWE , rwe ,  , Office365 , rwe-com.mail.protection.outlook.com
-Marubeni , marubeni , MessageLabs , unknown , cluster5.us.messagelabs.com
-JFE Holdings , jfe ,  , own-domain , mail.jfe.com
-Centrica , centrica , MessageLabs , unknown , cluster3.eu.messagelabs.com
-Suzuki Motor , suzuki ,  , own-domain , mail.suzuki.com
-Tokio Marine Holdings , tokiomarine , MessageLabs , unknown , cluster1.us.messagelabs.com
-Sinochem , sinochem ,  , own-domain , mailc.sinochem.com
-Aviva , aviva , MessageLabs , unknown , cluster8.eu.messagelabs.com
-Dai-ichi Life Insurance , dai-ichi ,  ,  , mail40.heteml.jp
-Petronas , petronas ,  ,  , mx1.hc77-30.r1.ces.cisco.com
-Industrial Bank , cibcom ,  ,  , smtp.cib.com.cn
-LG Display , lg ,  , own-domain , spam.lg.com
-Suncor Energy , suncor , MessageLabs , unknown , cluster6.us.messagelabs.com
-Kia Motors , kia ,  , own-domain , mail.kia.com
-Rabobank , rabobank ,  , own-domain , mailrelay3.rabobank.com
-Perusahaan Listrik Negara , plnco ,  ,  , mx0.pln.co.id
-Swiss Re , swissre , MessageLabs , unknown , cluster8.eu.messagelabs.com
-Itochu , itochu , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
-Credit Suisse Group , credit-suisse ,  , own-domain , mail.credit-suisse.com
-Commonwealth Bank , commonwealth ,  ,  , smtp1w.cfnmail.com
-Mazda Motor , mazda ,  , own-domain , mail1.mazdausa.com
-Taiwan Semiconductor , tsmc ,  , own-domain , mg.tsmc.com
-Greenergy Fuels Holdings , greenergy , Mimecast , unknown , eu-smtp-inbound-1.mimecast.com
-Meiji Yasuda Life Insurance , meijiyasudaco ,  , Office365 , meijiyasuda-co-jp.mail.protection.outlook.com
-Carrefour , carrefour , ProofPoint , unknown , mxb-00150901.gslb.pphosted.com
-Toyota Motor , toyota , ProofPoint , unknown , mxa-001f1301.gslb.pphosted.com
-Accenture , accenture , ProofPoint , unknown , mx0b-001dcc01.pphosted.com
-POSCO , posco ,  , own-domain , antispam.posco.net
-Mapfre Group , mapfre ,  , own-domain , estafeta3.mapfre.com
-Westpac Banking , westpac ,  ,  , mx1.netsolmail.net
-Sompo Japan Nipponkoa , sjnkco ,  , Google , aspmx.l.google.com
-Bunge , bunge ,  , Google , aspmx.l.google.com
-Hanwha , hanwha ,  , own-domain , spam1.hanwha.co.kr
-Indian Oil , iocl ,  , own-domain , mail.iocl.com
-Anheuser-Busch InBev , anheuser-busch , ProofPoint , unknown , mxa-000c8e03.gslb.pphosted.com
-Vivendi , vivendi ,  , own-domain , mail.vivendi.net
-Kansai Electric Power , kepcoco ,  ,  , smtp-dr.kanden.ne.jp
+UBS Group , ubs.com ,  , own-domain , mx12.ubs.open.ch
+Lenovo Group , lenovo.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+RWE , rwe.com ,  , Office365 , rwe-com.mail.protection.outlook.com
+Rio Tinto Group , riotinto.com , FireEye , unknown , smf.inline.email.fireeyecloud.com
+JFE Holdings , jfe.com ,  , own-domain , mail.jfe.com
+AstraZeneca , astrazeneca.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+Suzuki Motor , suzuki.com ,  , own-domain , mail.suzuki.com
+Mizuho Financial Group , mizuho.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Sinochem , sinochem.com ,  , own-domain , maila.sinochem.com
+Rolls-Royce Holdings , rolls-royce.com , Cisco , unknown , mx1.rolls-royce.c3s2.iphmx.com
+Dai-ichi Life Insurance , dai-ichi.com ,  ,  , mail40.heteml.jp
+Petronas , petronas.com ,  ,  , mx1.hc77-30.r1.ces.cisco.com
+Industrial Bank , cib.com.cn ,  , own-domain , smtp.cib.com.cn
+LG Display , lg.com ,  , own-domain , spam.lg.com
+Sharp , sharp.com , Cisco , unknown , mx1.sharp.iphmx.com
+Kia Motors , kia.com ,  , own-domain , mail.kia.com
+Rabobank , rabobank.com ,  , own-domain , mailrelay3.rabobank.com
+Perusahaan Listrik Negara , pln.co.id ,  ,  , mx0.pln.co.id
+Mitsui , mitsui.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+BHP Billiton , bhp.com , ProofPoint , unknown , mxa-00242401.gslb.pphosted.com
+Credit Suisse Group , credit-suisse.com ,  , own-domain , mail.credit-suisse.com
+Commonwealth Bank , commonwealth.com ,  ,  , smtp1w.cfnmail.com
+Mazda Motor , mazda.com ,  , own-domain , mail1.mazdausa.com
+Taiwan Semiconductor , tsmc.com ,  , own-domain , mg.tsmc.com
+Munich Re , munichre.com , ProofPoint , unknown , mx08-002b1401.pphosted.com
+Meiji Yasuda Life Insurance , meijiyasuda.co.jp ,  , Office365 , meijiyasuda-co-jp.mail.protection.outlook.com
+SABIC , sabic.com , MessageLabs , unknown , cluster4.eu.messagelabs.com
+Marubeni , marubeni.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Centrica , centrica.com , MessageLabs , unknown , cluster3.eu.messagelabs.com
+POSCO , posco.com ,  , own-domain , antispam.posco.net
+Mapfre Group , mapfre.com ,  , own-domain , estafeta2.mapfre.com
+Westpac Banking , westpac.com ,  ,  , mx1.netsolmail.net
+Sompo Japan Nipponkoa , sjnk.co.jp ,  , Google , aspmx.l.google.com
+Bunge , bunge.com ,  , Google , aspmx.l.google.com
+Hanwha , hanwha.com ,  , own-domain , spam.hanwha.co.kr
+Indian Oil , iocl.com ,  , own-domain , mail.iocl.com
+Tokio Marine Holdings , tokiomarine.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Vivendi , vivendi.com ,  , own-domain , mail.vivendi.net
+Kansai Electric Power , kepco.co.jp ,  ,  , smtp-dr.kanden.ne.jp
 Oil & Natural Gas , ongcindia ,  ,  , 
-Telstra , telstra ,  ,  , extmail.bigpond.com
-Adecco Group , adecco ,  , Office365 , adecco-com.mail.protection.outlook.com
-Novartis , novartis , ProofPoint , unknown , mx07-0019ad02.pphosted.com
-Chubu Electric Power , chudenco ,  , Office365 , chuden-co-jp.mail.protection.outlook.com
-Vattenfall , vattenfall ,  ,  , mx10.vattenfall.de
-Delhaize Group , delhaize , ProofPoint , unknown , mxa-00259c01.gslb.pphosted.com
-Wilmar International , wilmar , ProofPoint , unknown , mx0a-000e6603.pphosted.com
-KDDI , kddi ,  , own-domain , post-gate.kddi.com
-Iberdrola , iberdrola ,  , own-domain , sol1.iberdrola.com
-DZ Bank , dzbank ,  ,  , mg2.dzbank.de
-Lotte Shopping , lotte ,  , own-domain , maps.lotte.com
-Pertamina , pertamina ,  , own-domain , mx6.pertamina.com
-Jiangxi Copper , jxcc ,  , own-domain , jtmail.jxcc.com
-Lloyds Banking Group , lloyds , ProofPoint , unknown , mxb-00164201.gslb.pphosted.com
-JX Holdings , jxtg-groupco ,  , Office365 , jxtggroup-co-jp01b.mail.protection.outlook.com
-Enel , enel , ProofPoint , unknown , mxb-0023ba01.gslb.pphosted.com
-PTT , pttplc ,  , own-domain , mailcleaner1.pttplc.com
-OMV Group , omv ,  , own-domain , edge2.omv.com
-Power Corp. of Canada , powercorporation ,  , own-domain , smtp1.powercorporation.com
-Reliance Industries , rcomco ,  ,  , 
-AntarChile , antarchile ,  , Office365 , antarchile-cl.mail.protection.outlook.com
-Repsol , repsol ,  , own-domain , smtpca2.repsol.com
-Statoil , statoil ,  , Office365 , statoil-com.mail.protection.outlook.com
-BHP Billiton , bhp , ProofPoint , unknown , mxb-00242401.gslb.pphosted.com
-CEFC China Energy , cefc ,  ,  , qiye163mx01.mxmail.netease.com
-PKN ORLEN Group , orlen ,  ,  , mx1.orlen.pl
-Munich Re , munichre , ProofPoint , unknown , mx08-002b1401.pphosted.com
-DirecTV , directv , ProofPoint , unknown , mx0a-00191d01.pphosted.com
-Talanx , talanx ,  ,  , mx10.htp-mailer.de
-Tewoo Group , tewoo ,  ,  , mxwcom.263xmail.com
-Amer International Group , amercom ,  ,  , mail.amer.com.cn
-Achmea , achmea ,  ,  , smtpgate-nl2.achmea.nl
-CPC , cpc ,  , Office365 , cpc-com.mail.protection.outlook.com
-Medipal Holdings , medipal ,  ,  , mx1c40.carrierzone.com
-Aegon , aegon , ProofPoint , unknown , mxa-00099f01.gslb.pphosted.com
-Ultrapar Holdings , ultrapar ,  , Google , ASPMX.L.GOOGLE.com
-Bharat Petroleum , bharatpetroleum ,  , own-domain , comessenger2.bharatpetroleum.com
-Unipol , unipol ,  ,  , smtp7.gr-u.it
-Twenty-First Century Fox , fox , ProofPoint , unknown , mxa-00195501.gslb.pphosted.com
-Ingram Micro , ingram , ProofPoint , unknown , mxa-0022c701.gslb.pphosted.com
-AIA Group , aia , ProofPoint , unknown , mx08-002b4701.pphosted.com
-Ecopetrol , ecopetrol ,  ,  , mail.messaging.microsoft.com
-SSE , sse , ProofPoint , unknown , mx07-002adc01.pphosted.com
-Idemitsu Kosan , idemitsu ,  ,  , mx.securemx.jp
-Cosmo Oil , cosmo-oilco , ProofPoint , unknown , mxa-00266001.gslb.pphosted.com
-Trafigura Beheer , trafigura ,  ,  , mail10.smtpdaemon.net
-CNP Assurances , cnp ,  ,  , mx2-us1.ppe-hosted.com
-TonenGeneral Sekiyu , jxtg-groupco ,  , Office365 , jxtggroup-co-jp01b.mail.protection.outlook.com
-S-Oil , s-oil ,  , own-domain , spam.s-oil.com
-Noble Group , thisisnoble ,  , Office365 , thisisnoble-com.mail.protection.outlook.com
-Metro , metro , Trend Micro , unknown , in.hes.trendmicro.com
-GasTerra , gasterra ,  ,  , smtpscan-nl1.gasterra.nl
+Telstra , telstra.com ,  ,  , extmail.bigpond.com
+Adecco Group , adecco.com ,  , Office365 , adecco-com.mail.protection.outlook.com
+DirecTV , directv.com , ProofPoint , unknown , mx0b-00191d01.pphosted.com
+Chubu Electric Power , chuden.co.jp ,  , Office365 , chuden-co-jp.mail.protection.outlook.com
+Vattenfall , vattenfall.com ,  ,  , mx11.vattenfall.de
+Manulife Financial , manulife.com , FireEye , unknown , primary.us.email.fireeyecloud.com
+Aegon , aegon.com , ProofPoint , unknown , mxb-00099f01.gslb.pphosted.com
+KDDI , kddi.com ,  , own-domain , post-gate.kddi.com
+Iberdrola , iberdrola.com ,  , own-domain , sol1.iberdrola.com
+DZ Bank , dzbank.de ,  ,  , mg1.dzbank.de
+Lotte Shopping , lotte.com ,  , own-domain , maps.lotte.com
+Pertamina , pertamina.com ,  , own-domain , mx6.pertamina.com
+Jiangxi Copper , jxcc.com ,  , own-domain , jtmail.jxcc.com
+Twenty-First Century Fox , fox.com , ProofPoint , unknown , mxa-00195501.gslb.pphosted.com
+JX Holdings , jxtg-group.co.jp ,  , Office365 , jxtggroup-co-jp01b.mail.protection.outlook.com
+Aviva , aviva.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+PTT , pttplc.com ,  , own-domain , mailcleaner1.pttplc.com
+OMV Group , omv.com ,  , own-domain , edge1.omv.com
+Power Corp. of Canada , powercorporation.com ,  , own-domain , smtp1.powercorporation.com
+Reliance Industries , relianceada.com ,  , own-domain , mlmb030.relianceada.com
+AntarChile , antarchile.cl ,  , Office365 , antarchile-cl.mail.protection.outlook.com
+Repsol , repsol.com ,  , own-domain , smtptc1.repsol.com
+Statoil , statoil.com ,  , Office365 , statoil-com.mail.protection.outlook.com
+Ingram Micro , ingram.com , ProofPoint , unknown , mxa-0022c701.gslb.pphosted.com
+CEFC China Energy , cefc.co ,  ,  , qiye163mx01.mxmail.netease.com
+PKN ORLEN Group , orlen.pl ,  ,  , mx2.orlen.pl
+AIA Group , aia.com , ProofPoint , unknown , mx07-002b4701.pphosted.com
+SSE , sse.com , ProofPoint , unknown , mx07-002adc01.pphosted.com
+Talanx , talanx.com ,  ,  , mx10.htp-mailer.de
+Tewoo Group , tewoo.com ,  ,  , mxwcom.263xmail.com
+Amer International Group , amer.com.cn ,  , own-domain , mail.amer.com.cn
+Achmea , achmea.com ,  ,  , smtpgate-nl2.achmea.nl
+CPC , cpc.com ,  , Office365 , cpc-com.mail.protection.outlook.com
+Medipal Holdings , medipal.com ,  ,  , mx1c40.carrierzone.com
+Suncor Energy , suncor.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Ultrapar Holdings , ultrapar.com ,  , Google , ASPMX.L.GOOGLE.com
+Bharat Petroleum , bharatpetroleum.com ,  , own-domain , comessenger2.bharatpetroleum.com
+Unipol , unipol.it ,  ,  , smtp7.gr-u.it
+LyondellBasell Industries , lyondellbasell.com , Cisco , unknown , mx2.lyondellbasell.iphmx.com
+Swiss Re , swissre.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+CHS , chs.com , Barracuda , unknown , d63761a.ess.barracudanetworks.com
+Ecopetrol , ecopetrol.com ,  ,  , mail.messaging.microsoft.com
+Enbridge , enbridge.com , Cisco , unknown , esa3.enbridge.ca.iphmx.com
+Idemitsu Kosan , idemitsu.com ,  ,  , mx.securemx.jp
+Cosmo Oil , cosmo-oil.co.jp , ProofPoint , unknown , mxa-00266001.gslb.pphosted.com
+Trafigura Beheer , trafigura.com ,  ,  , mail10.smtpdaemon.net
+CNP Assurances , cnp.com ,  ,  , mx1-us1.ppe-hosted.com
+TonenGeneral Sekiyu , jxtg-group.co.jp ,  , Office365 , jxtggroup-co-jp01b.mail.protection.outlook.com
+S-Oil , s-oil.com ,  , own-domain , spam.s-oil.com
+Noble Group , thisisnoble.com ,  , Office365 , thisisnoble-com.mail.protection.outlook.com
+Greenergy Fuels Holdings , greenergy.com , Mimecast , unknown , eu-smtp-inbound-2.mimecast.com
+GasTerra , gasterra.com ,  ,  , smtpscan-nl2.gasterra.nl

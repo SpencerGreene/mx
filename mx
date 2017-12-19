@@ -5,7 +5,10 @@ debug = 1
 
 SGWs = {
     "pphosted"    : "ProofPoint",
+    "ppehosted"   : "ProofPoint",
+    "ppe-hosted"  : "ProofPoint",
     "messagelabs" : "MessageLabs",
+    "MessageLabs" : "MessageLabs",
     "mimecast"    : "Mimecast",
     "iphmx"       : "Cisco",
     "trendmicro"  : "Trend Micro",
@@ -16,21 +19,30 @@ SGWs = {
     "ctmail"      : "Cyren Web Security",
     "cscdns"      : "CSC Global",
     "fireeye"     : "FireEye",
-    "spamexperts" : "SpamExperts / SolarWinds"
+    "spamexperts" : "SpamExperts / SolarWinds",
+    "securence"   : "Securence",
+    "carrierzone" : "Carrier Zone"
 }
 
 MGWs = {
     "outlook"     : "Office365",
+    "sherweb"     : "Office365",
     "google"      : "Google",
     "GOOGLE"      : "Google",
     "psmtp"       : "Google",
     "zoho"        : "Zoho",
     "secureserver": "GoDaddy",
     "emailsrvr"   : "emailsrvr.com",
-    "yahoodns"    : "Yahoo!"
+    "yahoodns"    : "Yahoo!",
+    "fortimail"   : "Fortinet",
+    "1and1"       : "1and1",
+    "juno"        : "Juno",
+    "hostinger"   : "Hostinger",
+    "b-io.co"     : "Return Path",
+    "safesecureweb" : "SmarterTools"
 }
 
-TLDs = [ ".com", ".co.jp", ".com.au", ".co.uk", ".com.cn", ".ru" ]
+TLDs = [ ".com", ".co.jp", ".com.au", ".co.uk", ".com.cn", ".ru", ".org", ".net" ]
 
 import dns.resolver
 import sys

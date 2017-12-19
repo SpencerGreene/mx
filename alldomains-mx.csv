@@ -1,0 +1,1344 @@
+Company , Domain , SecurityGateway , Mail Domain , MX
+Walmart , walmart.com , ProofPoint , unknown , mxa-000c7201.gslb.pphosted.com
+Exxon Mobil , exxonmobil.com ,  , own-domain , mail24d.exxonmobil.com
+Apple , apple.com ,  , own-domain , nwk-aaemail-lapp03.apple.com
+Berkshire Hathaway , berkshirehathaway.com , Sonic Wall , unknown , brka.com.snwlhosted.com
+McKesson , mckesson.com ,  , own-domain , mail4.mckesson.com
+UnitedHealth Group , unitedhealthgroup.com ,  ,  , mail1.corpmailsvcs.com
+CVS Health , cvshealth.com , ProofPoint , unknown , mxa-0022b201.gslb.pphosted.com
+General Motors , gm.com ,  , own-domain , mx2.imr.gm.com
+Ford Motor , ford.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+AT&T , att.com , ProofPoint , unknown , mx0b-00191d01.pphosted.com
+General Electric , ge.com , ProofPoint , unknown , mxb-00176a02.gslb.pphosted.com
+AmerisourceBergen , amerisourcebergen.com , Cisco , unknown , mx2.amerisourcebergen.iphmx.com
+Verizon , verizon.com , ProofPoint , unknown , mxa-0024a201.gslb.pphosted.com
+Chevron , chevron.com ,  , own-domain , mix.chevron.com
+Costco , costco.com , ProofPoint , unknown , mx0b-001f9d01.pphosted.com
+Fannie Mae , fanniemae.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Kroger , kroger.com ,  , own-domain , mail2.dmz.kroger.com
+Amazon.com , amazon.com ,  , own-domain , amazon-smtp.amazon.com
+Walgreens , walgreens.com ,  , own-domain , edge.walgreens.com
+Boots , boots.com , Cisco , unknown , mx2.wba.c3s2.iphmx.com
+HP , hp.com ,  , own-domain , smtp.hp.com
+Cardinal Health , cardinal.com ,  , own-domain , smtp4.cardinal.com
+Express Scripts Holding , express-scripts.com ,  , own-domain , ps2imail01.express-scripts.com
+J.P. Morgan Chase , jpmorgan.com , MessageLabs , unknown , cluster14.us.messagelabs.com
+Boeing , boeing.com ,  , own-domain , phx-mbsin-04.mbs.boeing.net
+Microsoft , microsoft.com ,  , Office365 , microsoft-com.mail.protection.outlook.com
+Bank of America Corp. , bankofamerica.com , ProofPoint , unknown , mxa-0000ec05.gslb.pphosted.com
+Wells Fargo , wellsfargo.com , MessageLabs , unknown , cluster15.us.messagelabs.com
+Home Depot , homedepot.com , ProofPoint , unknown , mxb-000e6601.gslb.pphosted.com
+Citigroup , citi.com ,  , own-domain , mx-a.mail.citi.com
+Phillips 66 , p66.com , ProofPoint , unknown , mxa-001c4c01.gslb.pphosted.com
+IBM , ibm.com , ProofPoint , unknown , mx0a-001b2d01.pphosted.com
+Valero Energy , valero.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+Anthem , anthem.com , ProofPoint , unknown , mxb-001bee01.gslb.pphosted.com
+Procter & Gamble , pg.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+State Farm Insurance Cos. , statefarm.com ,  , own-domain , mail3.statefarm.com
+Alphabet , google.com ,  , Google , aspmx.l.google.com
+Comcast , comcast.com ,  , own-domain , mx10.comcast.com
+Target , target.com ,  , own-domain , smtp01.target.com
+Johnson & Johnson , jnj.com , Cisco , unknown , mx2.jnj.iphmx.com
+MetLife , metlife.com ,  , own-domain , ms30.metlife.com
+Archer Daniels Midland , adm.com ,  , Office365 , adm-com.mail.protection.outlook.com
+Marathon Petroleum , marathonpetroleum.com ,  , Office365 , marathonpetroleum-com.mail.protection.outlook.com
+Freddie Mac , freddiemac.com ,  , own-domain , re2xmail002.freddiemac.com
+PepsiCo , pepsico.com ,  , own-domain , mail.pepsico.com
+United Technologies , utc.com , ProofPoint , unknown , mxb-00105401.gslb.pphosted.com
+Aetna , aetna.com ,  , own-domain , inboundemail.aei.aetna.com
+Loweês , lowes.com ,  , own-domain , mail5.lowes.com
+UPS , ups.com ,  , own-domain , email-vip.ups.com
+AIG , aig.com ,  , own-domain , am2mxi02.aig.com
+Prudential Financial , prudential.com ,  , own-domain , mailgate6.prudential.com
+Intel , intel.com ,  , own-domain , mga14.intel.com
+Humana , humana.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Disney , disney.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Cisco Systems , cisco.com ,  , own-domain , alln-mx-01.cisco.com
+Pfizer , pfizer.com , ProofPoint , unknown , mxb-00013f02.gslb.pphosted.com
+Dow Chemical , dow.com ,  , Office365 , dow-com.mail.protection.outlook.com
+Sysco , sysco.com , ProofPoint , unknown , mxa-00133a01.gslb.pphosted.com
+FedEx , fedex.com ,  , own-domain , mapper.gslb.fedex.com
+Caterpillar , cat.com ,  , own-domain , mail3.cat.com
+Lockheed Martin , lmco.com ,  , own-domain , mailfi04.lmco.com
+New York Life Insurance , newyorklife.com ,  , own-domain , smtp.sd.newyorklife.com
+Coca-Cola , coca-cola.com ,  , Office365 , cocacola-com01b.mail.protection.outlook.com
+HCA Holdings , hcahealthcare.com ,  ,  , smtpa.mail.medcity.net
+Ingram Micro , ingrammicro.com , ProofPoint , unknown , mx0b-0021cb01.pphosted.com
+Energy Transfer Equity , energytransfer.com , Cisco , unknown , esa2.energytransfer.iphmx.com
+Tyson Foods , tyson.com ,  , own-domain , pps3.tyson.com
+American Airlines Group , aa.com ,  , Office365 , aa-com.mail.protection.outlook.com
+Delta Air Lines , delta.com , Cisco , unknown , mx1.delta.iphmx.com
+Nationwide , nationwide.com ,  , own-domain , namor.nationwide.com
+Johnson Controls , jci.com ,  , Office365 , jci-com.mail.protection.outlook.com
+Best Buy , bestbuy.com , ProofPoint , unknown , mxb-002a6b01.gslb.pphosted.com
+Merck , merck.com ,  , own-domain , pluto.merck.com
+Liberty Mutual Insurance Group , lmig.com ,  , own-domain , mx6.lmig.com
+Goldman Sachs Group , gs.com , ProofPoint , unknown , mxa-0014b501.gslb.pphosted.com
+Honeywell International , honeywell.com ,  , Office365 , honeywell-com.mail.protection.outlook.com
+Massachusetts Mutual Life Insurance , massmutual.com , ProofPoint , unknown , mxa-00108d02.gslb.pphosted.com
+Oracle , oracle.com ,  , own-domain , userp2020.oracle.com
+Morgan Stanley , morganstanley.com ,  , own-domain , mx2.morganstanley.com
+Cigna , cigna.com , ProofPoint , unknown , mxb-000e5c01.gslb.pphosted.com
+United Continental Holdings , ual.com ,  , own-domain , gwusa.ual.com
+Allstate , allstate.com ,  , own-domain , vap0132.allstate.com
+TIAA , tiaa.org ,  , own-domain , nc89acb01isea01.tiaa-cref.org
+INTL FCStone , intlfcstone.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+CHS , chsinc.com , ProofPoint , unknown , mxa-002ae201.gslb.pphosted.com
+American Express , aexp.com , ProofPoint , unknown , mx0b-0023b801.pphosted.com
+Gilead Sciences , gilead.com ,  , Office365 , gilead-com.mail.protection.outlook.com
+Publix Super Markets , publix.com ,  , own-domain , mail.publix.com
+General Dynamics , gendyn.com ,  , own-domain , mx1.gendyn.com
+TJX , tjx.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+ConocoPhillips , conocophillips.com ,  , Office365 , conocophillips-com.mail.protection.outlook.com
+Nike , nike.com , ProofPoint , unknown , mxa-001b6002.gslb.pphosted.com
+World Fuel Services , wfscorp.com ,  , own-domain , smtp5.wfscorp.com
+3M , 3m.com , Forcepoint , unknown , cust43457-1.in.mailcontrol.com
+Mondelez International , mondelezinternational.com , CSC Global , unknown , custmx.cscdns.net
+Exelon , exeloncorp.com ,  , own-domain , esa-omf-104.exeloncorp.com
+Twenty-First Century Fox , 21cf.com , ProofPoint , unknown , mxb-001cd501.gslb.pphosted.com
+Deere , johndeere.com , ProofPoint , unknown , mxb-000e4101.gslb.pphosted.com
+Tesoro , tsocorp.com ,  , Office365 , tsocorp-com.mail.protection.outlook.com
+Time Warner , timewarner.com , ProofPoint , unknown , mxa-00241e01.gslb.pphosted.com
+Northwestern Mutual , northwesternmutual.com ,  , own-domain , mx30.northwesternmutual.com
+DuPont , dupont.com , ProofPoint , unknown , mxa-001dcd02.gslb.pphosted.com
+Avnet , avnet.com ,  , own-domain , smarthost.avnet.com
+Macyês , macys.com , ProofPoint , unknown , mxb-0009cc01.gslb.pphosted.com
+Enterprise Products Partners , eprod.com ,  , own-domain , smtp2.eprod.com
+Travelers Cos. , spt.com ,  , own-domain , emailu.spt.com
+Philip Morris International , pmi.com ,  , Office365 , pmi-com.mail.protection.outlook.com
+Rite Aid , riteaid.com , ProofPoint , unknown , mxa-00005c01.gslb.pphosted.com
+Tech Data , techdata.com , ProofPoint , unknown , mxb-00277801.gslb.pphosted.com
+McDonaldês , mcdonalds.com ,  , own-domain , sesmail.mcdonalds.com
+Qualcomm , qualcomm.com ,  , own-domain , gatewaypony01.qualcomm.com
+Sears Holdings , searsholdings.com ,  , own-domain , searsholdings.com
+Sears Holdings , sears.com ,  , Office365 , sears-com.mail.protection.outlook.com
+Capital One Financial , capitalone.com ,  , own-domain , kimail03.capitalone.com
+EMC , emc.com , Cisco , unknown , mx2.dellcorporate.iphmx.com
+USAA , usaa.com ,  , own-domain , prodmx4l.usaa.com
+Duke Energy , duke-energy.com ,  , own-domain , mx30.duke-energy.com
+Time Warner Cable , twc.com ,  ,  , dnvrco-cmedge01.email.rr.com
+Halliburton , halliburton.com , ProofPoint , unknown , mxb-0000bf01.gslb.pphosted.com
+Northrop Grumman , ngc.com ,  ,  , mail1.northgrum.com
+Arrow Electronics , arrow.com ,  , Office365 , arrow-com.mail.protection.outlook.com
+Raytheon , raytheon.com ,  , own-domain , inbound.vetted.raytheon.com
+Plains GP Holdings , plainsallamerican.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+US Foods Holding , usfoods.com ,  , Office365 , usfoods-com.mail.protection.outlook.com
+AbbVie , abbvie.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Centene , centene.com ,  , own-domain , esg.centene.com
+Community Health Systems , chs.net ,  , own-domain , mail3.chs.net
+Alcoa , alcoa.com ,  , own-domain , adc-dmzmx403.alcoa.com
+International Paper , ipaper.com , Cisco , unknown , mx1.ipaper.iphmx.com
+Emerson Electric , emerson.com , Cisco , unknown , mx1.emerson.iphmx.com
+Union Pacific , up.com ,  , own-domain , meg-01.omhq.uprr.com
+Amgen , amgen.com , ProofPoint , unknown , mxb-0018ee01.gslb.pphosted.com
+U.S. Bancorp , usbank.com ,  , own-domain , mail1.usbank.com
+Staples , staples.com ,  , Office365 , staples-com.mail.protection.outlook.com
+Danaher , danaher.com , ProofPoint , unknown , mxb-001d2f01.gslb.pphosted.com
+Whirlpool , whirlpool.com ,  , Google , ASPMX.L.GOOGLE.com
+Aflac , aflac.com , ProofPoint , unknown , mxb-001f5701.gslb.pphosted.com
+AutoNation , autonation.com ,  , Office365 , autonation-com.mail.protection.outlook.com
+Progressive , progressive.com ,  , own-domain , acesap02.progressive.com
+Abbott Laboratories , abbott.com ,  , Office365 , abbott-com.mail.protection.outlook.com
+Dollar General , dollargeneral.com ,  , own-domain , mxgw1.dollargeneral.com
+Tenet Healthcare , tenethealth.com , ProofPoint , unknown , mx0b-00259001.pphosted.com
+Eli Lilly , lilly.com ,  , own-domain , maillldcprde1.xh1.lilly.com
+Southwest Airlines , southwest.com ,  ,  , mail02.wnco.com
+Penske Automotive Group , penskeautomotive.com , ProofPoint , unknown , mxa-00005602.gslb.pphosted.com
+Penske Automotive Group , penske.com , ProofPoint , unknown , mxb-001ae501.gslb.pphosted.com
+ManpowerGroup , manpower.com ,  , Office365 , manpowergroupapps.mail.protection.outlook.com
+Kohlês , kohlscorporation.com , Cisco , unknown , esa3.kohlsinbound.iphmx.com
+Kohlês , kohls.com , Cisco , unknown , mx1.kohlsinbound.iphmx.com
+Starbucks , starbucks.com , Cisco , unknown , mx1.starbucks.iphmx.com
+Paccar , paccar.com ,  , Office365 , paccar-com.mail.protection.outlook.com
+Cummins , cummins.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Altria Group , altria.com ,  , Office365 , altria-com.mail.protection.outlook.com
+Xerox , xerox.com , Cisco , unknown , mx2.xerox.iphmx.com
+Kimberly-Clark , kimberly-clark.com ,  , Office365 , kimberlyclark-com02b.mail.protection.outlook.com
+Hartford Financial Services Group , thehartford.com ,  , own-domain , hfdmailin02.thehartford.com
+Kraft Heinz , kraftheinzcompany.com ,  , Office365 , kraftheinzcompany-com.mail.protection.outlook.com
+Kraft Heinz , kraft.com ,  , Office365 , kraft-com.mail.protection.outlook.com
+Kraft Heinz , heinz.com ,  , Office365 , heinz-com.mail.protection.outlook.com
+Lear , lear.com ,  , Office365 , lear-com.mail.protection.outlook.com
+Fluor , fluor.com ,  , own-domain , avsiipa006.fluor.com
+AECOM , aecom.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Facebook , facebook.com ,  , own-domain , msgin.vvv.facebook.com
+Jabil Circuit , jabil.com ,  , Office365 , jabil-com.mail.protection.outlook.com
+CenturyLink , centurylink.com ,  , own-domain , lxomp51w.centurylink.com
+Supervalu , supervalu.com ,  , Office365 , supervaluinc.mail.protection.outlook.com
+General Mills , genmills.com ,  , own-domain , smtp2a.genmills.com
+Southern , southerncompany.com , ProofPoint , unknown , mxb-00113601.gslb.pphosted.com
+NextEra Energy , nexteraenergy.com ,  , Office365 , nexteraenergy-com.mail.protection.outlook.com
+Thermo Fisher Scientific , thermofisher.com , ProofPoint , unknown , mxa-002a2102.gslb.pphosted.com
+American Electric Power , aep.com ,  , own-domain , gateways1.aep.com
+PG&E Corp. , pge.com ,  , own-domain , itemlmtadmz06-out.pge.com
+NGL Energy Partners , nglep.com ,  , own-domain , mail1.nglep.com
+Bristol-Myers Squibb , bms.com ,  , Office365 , bms-com.mail.protection.outlook.com
+Goodyear Tire & Rubber , goodyear.com ,  , Office365 , goodyear-com.mail.protection.outlook.com
+Nucor , nucor.com , ProofPoint , unknown , mxa-0022e501.gslb.pphosted.com
+PNC Financial Services Group , pnc.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Health Net , healthnet.com ,  , own-domain , mailgate03.healthnet.com
+Micron Technology , micron.com ,  , own-domain , mailhost3.micron.com
+Colgate-Palmolive , colgatepalmolive.com ,  , Zoho , mx.zoho.com
+Freeport-McMoRan , fmi.com ,  , Office365 , fmi-com.mail.protection.outlook.com
+ConAgra Foods , conagrafoods.com , Cisco , unknown , mx1.conagrafoods.iphmx.com
+Gap , gapinc.com ,  , Office365 , gapinc-com.mail.protection.outlook.com
+Baker Hughes , bhi-net.com ,  , own-domain , msghouasg01.bhi-net.com
+Bank of New York Mellon Corp. , bnymellon.com , MessageLabs , unknown , cluster9bny.us.messagelabs.com
+Dollar Tree , dollartree.com , ProofPoint , unknown , mxb-00183e01.gslb.pphosted.com
+Whole Foods Market , wholefoods.com ,  , own-domain , smtp1.wholefoods.com
+PPG Industries , ppg.com , ProofPoint , unknown , mxb-00189b02.gslb.pphosted.com
+Genuine Parts , genpt.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Icahn Enterprises , ielp.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Performance Food Group , pfgc.com ,  , Office365 , pfgc-com.mail.protection.outlook.com
+Omnicom Group , omnicomgroup.com ,  ,  , pp-inbound-2.cdscore.com
+DISH Network , dish.com ,  , own-domain , mailin.dish.com
+FirstEnergy , firstenergycorp.com ,  , own-domain , aesa04.firstenergycorp.com
+Monsanto , monsanto.com , Forcepoint , unknown , cust42593-2-in.mailcontrol.com
+AES , aes.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+CarMax , carmax.com , ProofPoint , unknown , mxa-001ffb01.gslb.pphosted.com
+National Oilwell Varco , nov.com , ProofPoint , unknown , mxa-001b7901.gslb.pphosted.com
+NRG Energy , nrgenergy.com ,  , Office365 , nrg-com.mail.protection.outlook.com
+Western Digital , wdc.com , Cisco , unknown , mx2.hgst.iphmx.com
+Marriott International , marriott.com ,  , own-domain , mail.marriott.com
+Office Depot , officedepot.com ,  , Office365 , officedepot-com.mail.protection.outlook.com
+Nordstrom , nordstrom.com , Cisco , unknown , mx2.nordstrom.iphmx.com
+Kinder Morgan , kindermorgan.com , Cisco , unknown , mx1.kindermorgan.iphmx.com
+Aramark , aramark.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+DaVita HealthCare Partners , davita.com , Cisco , unknown , mx2.davita.iphmx.com
+Molina Healthcare , molinahealthcare.com ,  , own-domain , ironport1.molinahealthcare.com
+WellCare Health Plans , wellcare.com ,  , own-domain , mailfilter2.wellcare.com
+CBS , cbs.com , ProofPoint , unknown , mxb-00262c01.gslb.pphosted.com
+Visa , visa.com ,  , own-domain , portal1i.visa.com
+Lincoln National , lfg.com ,  , own-domain , nc2pamta03.lfg.com
+Ecolab , ecolab.com , ProofPoint , unknown , mxb-00073f02.gslb.pphosted.com
+Kellogg , kellogg.com , ProofPoint , unknown , mxa-0029fa01.gslb.pphosted.com
+C.H. Robinson Worldwide , chrobinson.com ,  , own-domain , mailgw6.chrobinson.com
+Textron , textron.com ,  , Office365 , textron-com.mail.protection.outlook.com
+Loews , loews.com , ProofPoint , unknown , mxa-001d4001.gslb.pphosted.com
+Illinois Tool Works , itw.com ,  , Office365 , itw-com.mail.protection.outlook.com
+Synnex , synnex.com ,  , own-domain , smtp4.synnex.com
+Viacom , viacom.com ,  , own-domain , mail.viacom.com
+HollyFrontier , hollyfrontier.com ,  , own-domain , mx1.hollyfrontier.com
+Land O Lakes , landolakes.com ,  , Office365 , landolakes-com.mail.protection.outlook.com
+Devon Energy , dvn.com , ProofPoint , unknown , mxa-00116402.gslb.pphosted.com
+PBF Energy , pbfenergy.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Yum Brands , yum.com , Trend Micro , unknown , in.hes.trendmicro.com
+Texas Instruments , ti.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+CDW , cdw.com , ProofPoint , unknown , mxb-00220401.gslb.pphosted.com
+Waste Management , wm.com ,  , own-domain , mail2.wm.com
+Marsh & McLennan , marsh.com ,  , own-domain , mx09.marsh.com
+Chesapeake Energy , chk.com , ProofPoint , unknown , mxb-0017eb01.gslb.pphosted.com
+Parker-Hannifin , parker.com , ProofPoint , unknown , mxb-002a1601.gslb.pphosted.com
+Occidental Petroleum , oxy.com ,  , own-domain , dal-mx-03.oxy.com
+Guardian Life Ins. Co. of America , guardianlife.com , ProofPoint , unknown , mx0a-00220101.pphosted.com
+Farmers Insurance Exchange , farmers.com , ProofPoint , unknown , mxa-0028ab01.gslb.pphosted.com
+J.C. Penney , jcpenney.com ,  , Office365 , jcpenney-com.mail.protection.outlook.com
+Consolidated Edison , coned.com ,  , own-domain , xff-esg1.coned.com
+Cognizant Technology Solutions , cognizant.com ,  , Office365 , cognizant-com.mail.protection.outlook.com
+VF , vfc.com , ProofPoint , unknown , mxb-00127801.gslb.pphosted.com
+Ameriprise Financial , ampf.com ,  , own-domain , ipgw6.ampf.com
+Computer Sciences , csc.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+L Brands , lb.com , ProofPoint , unknown , mxa-00204f01.gslb.pphosted.com
+Jacobs Engineering Group , jacobs.com , ProofPoint , unknown , mxb-0025cf01.gslb.pphosted.com
+Principal Financial , principal.com ,  , own-domain , mx5.principal.com
+Ross Stores , rossstores.com ,  , own-domain , rossstores.com
+Bed Bath & Beyond , bedbathandbeyond.com ,  ,  , mail-router.e-dialog.com
+CSX , csx.com ,  , own-domain , mail8.csx.com
+Toys –R” Us , toysrus.com , ProofPoint , unknown , mxb-00218101.gslb.pphosted.com
+Las Vegas Sands , sands.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Leucadia National , leucadia.com , ProofPoint , unknown , mx0a-001c3e01.pphosted.com
+Dominion Resources , dom.com ,  , own-domain , innm02.dom.com
+United States Steel , uss.com , ProofPoint , unknown , mxb-00264f01.gslb.pphosted.com
+L-3 Communications , l-3com.com ,  , own-domain , smtp7in.l-3com.com
+Edison International , sce.com ,  , own-domain , azxapmta01.sce.com
+Entergy , entergy.com ,  , own-domain , symmail4.roc.entergy.com
+ADP , adp.com ,  , own-domain , mail5.adp.com
+First Data , firstdata.com ,  , own-domain , x3ppir013.firstdata.com
+BlackRock , blackrock.com , ProofPoint , unknown , mxa-00162b01.gslb.pphosted.com
+WestRock , westrock.com ,  , Office365 , westrock-com.mail.protection.outlook.com
+Voya Financial , voya.com ,  , Office365 , voya-com.mail.protection.outlook.com
+Sherwin-Williams , sherwin.com ,  , own-domain , emhost55.sherwin.com
+Hilton Worldwide Holdings , hilton.com , Cisco , unknown , mx1.hilton.iphmx.com
+R.R. Donnelley & Sons , rrdonnelley.com ,  , Google , aspmx.l.google.com
+Stanley Black & Decker , stanleyblackanddecker.com , ProofPoint , unknown , mxb-00254701.gslb.pphosted.com
+Stanley Black & Decker , stanley.com , ProofPoint , unknown , mxb-00254701.gslb.pphosted.com
+Xcel Energy , xcelenergy.com ,  , own-domain , esa.wip.xcelenergy.com
+Murphy USA , murphyusa.com ,  , Office365 , murphyusa-com.mail.protection.outlook.com
+CBRE Group , cbre.com , ProofPoint , unknown , mxb-001bfb01.gslb.pphosted.com
+D.R. Horton , drhorton.com ,  , own-domain , prpt.drhorton.com
+Estee Lauder , elcompanies.com , ProofPoint , unknown , mxa-001a2001.gslb.pphosted.com
+Estee Lauder , esteelauder.com , ProofPoint , unknown , mxa-001a2001.gslb.pphosted.com
+Praxair , praxair.com ,  , own-domain , mx6.praxair.com
+Biogen , biogen.com , ProofPoint , unknown , mx0b-00209801.pphosted.com
+State Street Corp. , statestreet.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Unum Group , unum.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+Reynolds American , reynoldsamerican.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Group 1 Automotive , group1auto.com ,  , own-domain , gpimx3.group1auto.com
+Henry Schein , henryschein.com , ProofPoint , unknown , mxa-001d3a01.gslb.pphosted.com
+Hertz Global Holdings , hertz.com , ProofPoint , unknown , mxb-00034201.gslb.pphosted.com
+Norfolk Southern , nscorp.com ,  , own-domain , mail1.nscorp.com
+Reinsurance Group of America , rgare.com , ProofPoint , unknown , mxb-00068801.gslb.pphosted.com
+Public Service Enterprise Group , pseg.com ,  , own-domain , smtp4.pseg.com
+BB&T Corp. , bbandt.com ,  , own-domain , mail1.bbandt.com
+DTE Energy , dteenergy.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Assurant , assurant.com ,  ,  , msp0lppp002.etdbw.com
+Global Partners , globalp.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Huntsman , huntsman.com , ProofPoint , unknown , mxa-000afc01.gslb.pphosted.com
+Becton Dickinson , bd.com , ProofPoint , unknown , mxa-0017d901.gslb.pphosted.com
+Sempra Energy , sempra.com ,  , own-domain , pps2.sempra.com
+AutoZone , autozone.com ,  , Office365 , autozone-com.mail.protection.outlook.com
+Navistar International , navistar.com ,  , Office365 , navistar-com.mail.protection.outlook.com
+Precision Castparts , precast.com ,  , own-domain , precast.pcc-structurals.com
+Discover Financial Services , discoverfinancial.com , ProofPoint , unknown , mxb-001d7a03.gslb.pphosted.com
+Liberty Interactive , libertyinteractive.com ,  , GoDaddy , smtp.secureserver.net
+W.W. Grainger , grainger.com ,  , Office365 , grainger-com.mail.protection.outlook.com
+Baxter International , baxter.com ,  , own-domain , mailco.baxter.com
+Stryker , stryker.com ,  , Office365 , stryker-com.mail.protection.outlook.com
+Air Products & Chemicals , airproducts.com ,  , Office365 , airproducts-com.mail.protection.outlook.com
+Western Refining , wnr.com , ProofPoint , unknown , mxb-0018ff01.gslb.pphosted.com
+Universal Health Services , uhsinc.com ,  , own-domain , smtp1.uhsinc.com
+Owens & Minor , owens-minor.com ,  , Office365 , owensminor-com01c.mail.protection.outlook.com
+Charter Communications , charter.com ,  , own-domain , mail.chartercom.com
+Advance Auto Parts , advanceautoparts.com , ProofPoint , unknown , mxb-0013d101.gslb.pphosted.com
+MasterCard , mastercard.com , ProofPoint , unknown , mxa-00078002.gslb.pphosted.com
+Applied Materials , appliedmaterials.com ,  , own-domain , mx.appliedmaterials.com
+Eastman Chemical , eastman.com ,  , Office365 , eastman-com.mail.protection.outlook.com
+Sonic Automotive , sonicautomotive.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Ally Financial , ally.com ,  , own-domain , mx01.ally.com
+CST Brands , cstbrands.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+eBay , ebay.com ,  , own-domain , gort.ebay.com
+Lennar , lennar.com , ProofPoint , unknown , mxa-001afc01.gslb.pphosted.com
+GameStop , gamestop.com ,  , own-domain , mail1.gamestop.com
+Reliance Steel & Aluminum , rsac.com , Cisco , unknown , mx2.rsac.iphmx.com
+Hormel Foods , hormel.com , ProofPoint , unknown , mxb-00103401.gslb.pphosted.com
+Celgene , celgene.com , ProofPoint , unknown , mxb-00183501.gslb.pphosted.com
+Genworth Financial , genworth.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+PayPal Holdings , paypal.com ,  , own-domain , mx2.paypalcorp.com
+Priceline Group , pricelinegroup.com ,  , Google , ASPMX.L.GOOGLE.com
+MGM Resorts International , mgmresorts.com ,  , own-domain , inbound2.s4.mgmresorts.com
+Autoliv , autoliv.com , Cisco , unknown , mx2.autoliv.c3s2.iphmx.com
+Fidelity National Financial , fnf.com ,  , Office365 , fnf-com.mail.protection.outlook.com
+Republic Services , republicservices.com , ProofPoint , unknown , mxb-0021b301.gslb.pphosted.com
+Corning , corning.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Peter Kiewit Sonsê , kiewit.com , Cisco , unknown , mx1.kiewit.iphmx.com
+Univar , univar.com ,  , Office365 , univar-com.mail.protection.outlook.com
+Mosaic , mosaicco.com ,  , Office365 , mosaicco-com.mail.protection.outlook.com
+Core-Mark Holding , core-mark.com , Trend Micro , unknown , in-mig04.hes.trendmicro.com
+Thrivent Financial for Lutherans , thrivent.com ,  , own-domain , irnprt001.thrivent.com
+Cameron International , c-a-m.com ,  , Office365 , cam-com0k.mail.protection.outlook.com
+HD Supply Holdings , hdsupply.com , ProofPoint , unknown , mxa-001cc001.gslb.pphosted.com
+Crown Holdings , crowncork.com ,  , own-domain , mail.crowncork.com
+EOG Resources , eogresources.com ,  , Office365 , eogresources-com.mail.protection.outlook.com
+Veritiv , veritivcorp.com ,  , Office365 , veritivcorp-com.mail.protection.outlook.com
+Anadarko Petroleum , anadarko.com ,  , own-domain , dnvipmsx002.anadarko.com
+Laboratory Corp. of America , labcorp.com , Cisco , unknown , mx2.labcorp.iphmx.com
+Pacific Life , pacificlife.com ,  , own-domain , mail3.pacificlife.com
+News Corp. , newscorp.com ,  , Google , aspmx.l.google.com
+Jarden , jarden.com ,  , Office365 , jarden-com.mail.protection.outlook.com
+SunTrust Banks , suntrust.com ,  , own-domain , mx5.suntrust.com
+Avis Budget Group , avis.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Budget , budget.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Broadcom , broadcom.com ,  , Google , aspmx.l.google.com
+American Family Insurance Group , amfam.com ,  , own-domain , nmr.amfam.com
+Level 3 Communications , level3.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Tenneco , tenneco.com ,  , Office365 , tenneco-com.mail.protection.outlook.com
+United Natural Foods , unfi.com ,  , Office365 , unfi-com.mail.protection.outlook.com
+Dean Foods , deanfoods.com ,  , Office365 , deanfoods-com.mail.protection.outlook.com
+Campbell Soup , campbellsoupcompany.com ,  , Office365 , campbellsoupcompany-com.mail.protection.outlook.com
+Mohawk Industries , mohawkind.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+BorgWarner , borgwarner.com ,  , Office365 , borgwarner-com.mail.protection.outlook.com
+PVH , pvh.com , Cisco , unknown , mx2.pvh.iphmx.com
+Ball , ball.com , ProofPoint , unknown , mxb-0014fe01.gslb.pphosted.com
+OêReilly Automotive , oreillyauto.com , Trend Micro , unknown , oreillyauto.com.e0040.g0004.sg0089.im.emailsecurity.trendmicro.com
+Eversource Energy , eversource.com , ProofPoint , unknown , mxb-0018e401.gslb.pphosted.com
+Franklin Resources , franklinresources.com , MarkMonitor , unknown , bh.markmonitor.com
+Masco , masco.com ,  , Office365 , masco-com.mail.protection.outlook.com
+Lithia Motors , lithia.com , ProofPoint , unknown , mxb-0021da01.gslb.pphosted.com
+KKR , kkr.com ,  , Google , ASPMX.L.GOOGLE.com
+Oneok , oneok.com , ProofPoint , unknown , mxb-0014fc01.gslb.pphosted.com
+Newmont Mining , newmont.com , Cisco , unknown , mx1.hc1864.iphmx.com
+PPL , pplweb.com , ProofPoint , unknown , mxa-0000ff01.gslb.pphosted.com
+SpartanNash , spartannash.com , ProofPoint , unknown , mxa-00183101.gslb.pphosted.com
+Quanta Services , quantaservices.com ,  , Office365 , quantaservices-com.mail.protection.outlook.com
+XPO Logistics , xpo.com , ProofPoint , unknown , mx0b-002b6701.pphosted.com
+Ralph Lauren , ralphlauren.com ,  , own-domain , ns10.ralphlauren.com
+Interpublic Group , interpublic.com , Cisco , unknown , mx2.ipg.iphmx.com
+Steel Dynamics , steeldynamics.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+WESCO International , wesco.com , ProofPoint , unknown , mxa-00168f01.gslb.pphosted.com
+Quest Diagnostics , questdiagnostics.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Boston Scientific , bostonscientific.com , Cisco , unknown , mx1.bsci.iphmx.com
+AGCO , agcocorp.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Foot Locker , footlocker-inc.com , ProofPoint , unknown , mxb-00014701.gslb.pphosted.com
+Foot Locker , footlocker.com , ProofPoint , unknown , mxa-00014701.gslb.pphosted.com
+Hershey , thehersheycompany.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Hershey , hersheys.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+CenterPoint Energy , centerpointenergy.com ,  , Office365 , centerpointenergy-com.mail.protection.outlook.com
+Williams , williams.com , ProofPoint , unknown , mxa-00188a01.gslb.pphosted.com
+Dickês Sporting Goods , dickssportinggoods.com , ProofPoint , unknown , mxb-00228b01.gslb.pphosted.com
+Live Nation Entertainment , livenation.com ,  , Office365 , livenation-com.mail.protection.outlook.com
+Mutual of Omaha Insurance , mutualofomaha.com , Forcepoint , unknown , cust50103-2.in.mailcontrol.com
+W.R. Berkley , wrberkley.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+LKQ , lkqcorp.com , ProofPoint , unknown , mxb-0019e001.gslb.pphosted.com
+Avon Products , avon.com ,  , Office365 , avonglobal.mail.protection.outlook.com
+Darden Restaurants , darden.com , ProofPoint , unknown , mxa-0017e701.gslb.pphosted.com
+Kindred Healthcare , kindredhealthcare.com , Cisco , unknown , mx1.kindred.iphmx.com
+Weyerhaeuser , weyerhaeuser.com ,  , Office365 , weyerhaeuser-com.mail.protection.outlook.com
+Caseyês General Stores , caseys.com , Cisco , unknown , mx1.caseys.iphmx.com
+Sealed Air , sealedair.com ,  , Google , ASPMX.L.GOOGLE.com
+Fifth Third Bancorp , 53.com ,  , own-domain , mailgw3.53.com
+Dover , dovercorp.com ,  , Office365 , dovercorp-com.mail.eo.outlook.com
+Huntington Ingalls Industries , hii-co.com ,  ,  , mail1.hii-nns.com
+Netflix , netflix.com ,  , Google , aspmx.l.google.com
+Dillardês , dillards.com , ProofPoint , unknown , mxb-00085101.gslb.pphosted.com
+EMCOR Group , emcorgroup.com , ProofPoint , unknown , mxa-0015e101.gslb.pphosted.com
+Jones Financial , edwardjones.com ,  , own-domain , napasmss-1.edwardjones.com
+AK Steel Holding , aksteel.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+UGI , ugicorp.com , ProofPoint , unknown , mx0a-0024bf01.pphosted.com
+UGI , ugi.com , ProofPoint , unknown , mxb-0024bf01.gslb.pphosted.com
+Expedia , expedia.com ,  , own-domain , mx1b.expedia.com
+salesforce.com , salesforce.com ,  , Google , aspmx.l.google.com
+Targa Resources , targaresources.com , Trend Micro , unknown , in.hes.trendmicro.com
+Apache , apachecorp.com , ProofPoint , unknown , mxa-0002cc01.gslb.pphosted.com
+Spirit AeroSystems Holdings , spiritaero.com ,  , Office365 , spiritaero-com.mail.protection.outlook.com
+Expeditors International of Washington , expeditors.com ,  , Office365 , expeditors-com.mail.protection.outlook.com
+Anixter International , anixter.com ,  , Office365 , anixter-com.mail.protection.outlook.com
+Fidelity National Information Services , fisglobal.com ,  , Office365 , fisglobal-com.mail.protection.outlook.com
+Asbury Automotive Group , asburyauto.com , ProofPoint , unknown , mxb-001e2601.gslb.pphosted.com
+Hess , hess.com , Forcepoint , unknown , cust49581-2.in.mailcontrol.com
+Ryder System , ryder.com ,  , own-domain , atlsmtp01.ryder.com
+Terex , terex.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Coca-Cola European Partners , cokecce.com ,  , Office365 , cokecce-com.mail.protection.outlook.com
+Auto-Owners Insurance , aoins.com ,  , own-domain , exfilt1.aoins.com
+Cablevision Systems , cablevision.com ,  , own-domain , cscpppsin01.cablevision.com
+Symantec , symantec.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Charles Schwab , aboutschwab.com ,  , Zoho , mx.zoho.com
+Calpine , calpine.com , Cisco , unknown , mx1.calpine.iphmx.com
+CMS Energy , cmsenergy.com ,  , Office365 , cmsenergy-com.mail.protection.outlook.com
+Alliance Data Systems , alliancedata.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+JetBlue Airways , jetblue.com , MessageLabs , unknown , cluster2.us.messagelabs.com
+Discovery Communications , discoverycommunications.com ,  ,  , mail.messaging.microsoft.com
+Trinity Industries , trin.net , ProofPoint , unknown , mxb-00096201.gslb.pphosted.com
+Sanmina , sanmina.com ,  , Google , aspmx.l.google.com
+NCR , ncr.com , ProofPoint , unknown , mxb-00209e01.gslb.pphosted.com
+FMC Technologies , fmctechnologies.com , ProofPoint , unknown , mxa-00166701.gslb.pphosted.com
+Erie Insurance Group , erieinsurance.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Rockwell Automation , rockwellautomation.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Dr Pepper Snapple Group , drpeppersnapplegroup.com , CSC Global , unknown , custmx.cscdns.net
+Dr Pepper Snapple Group , snapple.com ,  , emailsrvr.com , mx1.emailsrvr.com
+Dr Pepper Snapple Group , drpepper.com ,  , Office365 , drpepper-com.mail.protection.outlook.com
+iHeartMedia , iheartmedia.com , ProofPoint , unknown , mxa-001b1801.gslb.pphosted.com
+Tractor Supply , tractorsupply.com , ProofPoint , unknown , mxb-0022f601.gslb.pphosted.com
+J.B. Hunt Transport Services , jbhunt.com ,  , Office365 , jbhunt-com.mail.protection.outlook.com
+Commercial Metals , cmc.com ,  , Office365 , cmc-com.mail.protection.outlook.com
+Owens-Illinois , o-i.com ,  , Office365 , owensillinois.mail.protection.outlook.com
+Harman International Industries , harman.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Baxalta , baxalta.com , ProofPoint , unknown , mxb-00243e02.gslb.pphosted.com
+American Financial Group , amfin.com , ProofPoint , unknown , mxb-001f9701.gslb.pphosted.com
+NetApp , amfin.com , ProofPoint , unknown , mxb-001f9701.gslb.pphosted.com
+Graybar Electric , graybar.com ,  , own-domain , ismx.graybar.com
+Oshkosh , oshkoshcorp.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Ameren , ameren.com ,  , Office365 , ameren-com.mail.protection.outlook.com
+A-Mark Precious Metals , amark.com ,  , Office365 , amark-com.mail.protection.outlook.com
+Barnes & Noble , bn.com , ProofPoint , unknown , mxa-00189e01.gslb.pphosted.com
+Dana Holding , dana.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Constellation Brands , cbrands.com , ProofPoint , unknown , mxb-001e0e01.gslb.pphosted.com
+LifePoint Health , lifepointhealth.net ,  , Office365 , lifepointhealth-net.mail.protection.outlook.com
+Zimmer Biomet Holdings , zimmerbiomet.com ,  , Office365 , zimmer-com.mail.protection.outlook.com
+Harley-Davidson , harley-davidson.com ,  ,  , mx2.hc264-13.r1.ces.cisco.com
+PulteGroup , pultegroupinc.com ,  , Google , pultegroup.com.s9a1.psmtp.com
+PulteGroup , pulte.com , ProofPoint , unknown , mxb-001af501.gslb.pphosted.com
+Newell Brands , newellbrands.com , CSC Global , unknown , custmx.cscdns.net
+Avery Dennison , averydennison.com ,  , Google , aspmx.l.google.com
+Jones Lang LaSalle , jll.com ,  , own-domain , smtp3.ap.jll.com
+WEC Energy Group , wecenergygroup.com ,  , Office365 , wecenergygroup-com.mail.protection.outlook.com
+Marathon Oil , marathonoil.com ,  , own-domain , pp1.marathonoil.com
+TravelCenters of America , tatravelcenters.com , ProofPoint , unknown , mx0b-00250e01.pphosted.com
+United Rentals , ur.com ,  , own-domain , mta1.ur.com
+HRG Group , hrggroup.com , Barracuda , unknown , d65976a.ess.barracudanetworks.com
+Old Republic International , oldrepublic.com , Cisco , unknown , mx1.greatwestcasualty.iphmx.com
+Windstream Holdings , windstream.com ,  , own-domain , dell903.windstream.com
+Starwood Hotels & Resorts , starwoodhotels.com ,  , Office365 , Starwoodhotels-com.mail.protection.outlook.com
+Delek US Holdings , delekus.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Packaging Corp. of America , packagingcorp.com , ProofPoint , unknown , mxb-00212701.gslb.pphosted.com
+Quintiles Transnational Holdings , quintiles.com ,  , Office365 , quintiles-com.mail.protection.outlook.com
+Hanesbrands , hanes.com ,  , own-domain , mail1.hanesbi.net
+Realogy Holdings , realogy.com , ProofPoint , unknown , mxa-00137901.gslb.pphosted.com
+Mattel , mattel.com ,  , own-domain , maila.mattel.com
+Motorola Solutions , motorolasolutions.com , ProofPoint , unknown , mxa-0019e102.gslb.pphosted.com
+Motorola Solutions , motorola.com ,  , Google , ASPMX.L.GOOGLE.com
+J.M. Smucker , jmsmucker.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+J.M. Smucker , smuckers.com ,  , emailsrvr.com , mx1.emailsrvr.com
+Regions Financial , regions.com ,  , Google , ASPMX.L.GOOGLE.com
+Celanese , celanese.com , ProofPoint , unknown , mxb-0016a101.gslb.pphosted.com
+Clorox , clorox.com ,  , Office365 , Clorox-com.mail.protection.outlook.com
+Ingredion , ingredion.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Genesis Healthcare , genesishcc.com ,  , own-domain , mx176.genesishcc.com
+Peabody Energy , peabodyenergy.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Alaska Air Group , alaskaair.com ,  , Office365 , Alaskaair-com.mail.protection.outlook.com
+Seaboard , seaboardcorp.com , ProofPoint , unknown , mxb-00166602.gslb.pphosted.com
+Frontier Communications , frontier.com ,  , Yahoo! , mta5.am0.yahoodns.net
+Amphenol , amphenol.com ,  , Office365 , amphenol-com.mail.protection.outlook.com
+Lansing Trade Group , lansingtradegroup.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+SanDisk , sandisk.com , Cisco , unknown , mx1.hgst.iphmx.com
+St. Jude Medical , sjm.com , ProofPoint , unknown , mxa-00140101.gslb.pphosted.com
+Wyndham Worldwide , wyndhamworldwide.com , ProofPoint , unknown , mxa-00128602.gslb.pphosted.com
+Kelly Services , kellyservices.com ,  , Office365 , kellyservices-com.mail.protection.outlook.com
+Western Union , westernunion.com , ProofPoint , unknown , mxa-00002a01.gslb.pphosted.com
+Envision Healthcare Holdings , evhc.net ,  , Office365 , evhc-net.mail.protection.outlook.com
+Visteon , visteon.com ,  , Office365 , visteon-com.mail.eo.outlook.com
+Arthur J. Gallagher , ajg.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Host Hotels & Resorts , hosthotels.com ,  , Office365 , hosthotels-com.mail.protection.outlook.com
+Ashland , ashland.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Insight Enterprises , insight.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Energy Future Holdings , energyfutureholdings.com ,  , Office365 , energyfutureholdings-com.mail.protection.outlook.com
+Markel , markelcorp.com , Forcepoint , unknown , cust41543-2.in.mailcontrol.com
+Essendant , essendant.com ,  , own-domain , mx2.essendant.com
+CH2M Hill , ch2m.com , Cisco , unknown , mx1.ch2m.iphmx.com
+Western & Southern Financial Group , wsfgrp.com ,  , own-domain , mx1.wsfgrp.com
+Owens Corning , owenscorning.com ,  , Office365 , owenscorning-com.mail.protection.outlook.com
+S&P Global , spglobal.com ,  , own-domain , nj12corpmr01.spglobal.com
+Raymond James Financial , rjf.com ,  , own-domain , smtp1.rjf.com
+NiSource , nisource.com , ProofPoint , unknown , mxa-00206302.gslb.pphosted.com
+Airgas , airgas.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+ABM Industries , abm.com , ProofPoint , unknown , mxa-00030f01.gslb.pphosted.com
+Citizens Financial Group , citizensbank.com ,  , Office365 , citizensbank-com.mail.protection.outlook.com
+Booz Allen Hamilton Holding , bah.com ,  , own-domain , prodesa01-ext.bah.com
+Simon Property Group , simon.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+Domtar , domtar.com , ProofPoint , unknown , mxb-001d9701.gslb.pphosted.com
+Rockwell Collins , rockwellcollins.com ,  , own-domain , mail06.rockwellcollins.com
+Lam Research , lamresearch.com , ProofPoint , unknown , mxa-00054001.gslb.pphosted.com
+Fiserv , fiserv.com ,  , own-domain , mail2.fiserv.com
+Spectra Energy , spectraenergy.com , Cisco , unknown , mx2.spectraenergy.iphmx.com
+Navient , navient.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Big Lots , biglots.com , ProofPoint , unknown , mx0a-00283501.pphosted.com
+Telephone & Data Systems , tdsinc.com ,  , own-domain , extsmtp01.tdsinc.com
+First American Financial , firstam.com , Cisco , unknown , MX1.firstam.iphmx.com
+NVR , nvrinc.com ,  , own-domain , mail.nvrinc.com
+Cincinnati Financial , cinfin.com , ProofPoint , unknown , mx0a-0015a401.pphosted.com
+Burlington Stores , coat.com ,  , own-domain , mailhost4.coat.com
+El Paso , elpaso.com , Cisco , unknown , mx1.kindermorgan.iphmx.com
+Reliant Energy , reliantenergy.com ,  , Office365 , nrg-com.mail.protection.outlook.com
+SBC Communications , sbc.com , ProofPoint , unknown , mx0a-00191d01.pphosted.com
+Morgan Stanley Dean Witter , morganstanley.com ,  , own-domain , mx2.morganstanley.com
+Dynegy , dynegy.com , Cisco , unknown , mx1.dynegy.iphmx.com
+Aquila , utilicorp.com ,  ,  , mx76.mb1p.com
+Merrill Lynch , ml.com , ProofPoint , unknown , mxb-0000ec05.gslb.pphosted.com
+AOL Time Warner , turner.com , ProofPoint , unknown , mxb-000c6b02.gslb.pphosted.com
+Albertson's , albertsons.com ,  , Office365 , albertsons-com.mail.protection.outlook.com
+Kmart , bluelight.com ,  , Juno , other.juno.com
+Safeway , safeway.com ,  , Office365 , safeway-com.mail.protection.outlook.com
+Compaq Computer , hpe.com ,  , own-domain , smtp.hpe.com
+Mirant , mirant.com ,  , own-domain , smtp01.mirant.com
+Dell Computer , dell.com , Cisco , unknown , mx2.dellcorporate.iphmx.com
+TXU , txu.com ,  , Office365 , txu-com.mail.protection.outlook.com
+ConAgra , conagra.com , Cisco , unknown , mx1.conagrafoods.iphmx.com
+Delphi , delphiauto.com , ProofPoint , unknown , mx0a-00275a01.pphosted.com
+Sprint , sprint.com ,  , Office365 , sprint-com.mail.protection.outlook.com
+Georgia-Pacific , gp.com , ProofPoint , unknown , mxb-00164e01.gslb.pphosted.com
+BellSouth , bellsouth.com , ProofPoint , unknown , mx0b-00191d01.pphosted.com
+CVS , cvs.com , ProofPoint , unknown , mxb-0022b201.gslb.pphosted.com
+Sara Lee , tyson.com ,  , own-domain , pps4.tyson.com
+TRW , trw.com ,  , Office365 , trw-com.mail.protection.outlook.com
+May Department Stores , maycompany.com , CSC Global , unknown , custmx.cscdns.net
+Wyeth , wyeth.com , ProofPoint , unknown , mxb-00013f02.gslb.pphosted.com
+Eastman Kodak , kodak.com ,  , Office365 , kodak-com.mail.protection.outlook.com
+Circuit City Stores , circuitcity.com ,  , Office365 , circuitcity-com.mail.protection.outlook.com
+Cinergy , cinergy.com ,  , own-domain , spam.cinergycinemas.com
+Anheuser-Busch , anheuser-busch.com , ProofPoint , unknown , mxb-000c8e03.gslb.pphosted.com
+Winn-Dixie Stores , winn-dixie.com , ProofPoint , unknown , mxb-00187801.gslb.pphosted.com
+WellPoint Health Networks , wellpoint.com , ProofPoint , unknown , mxb-001bee01.gslb.pphosted.com
+Sunoco , sunocoinc.com , Cisco , unknown , esa2.energytransfer.iphmx.com
+Farmland Industries , farmland.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Allegheny Energy , firstenergycorp.com ,  , own-domain , aesa04.firstenergycorp.com
+MBNA , mbna.com , ProofPoint , unknown , mxb-0000ec05.gslb.pphosted.com
+Northwest Airlines , nwa.com , Cisco , unknown , mx2.delta.iphmx.com
+Schering-Plough , schering-plough.com ,  ,  , bb1dns2.ddc.dartmail.net
+Limited , limited.com ,  , Office365 , limited-com.mail.protection.outlook.com
+John Hancock Financial Services , jhancock.com , FireEye , unknown , primary.us.email.fireeyecloud.com
+Burlington Northern Santa Fe , bnsf.com ,  , own-domain , Mail3.bnsf.com
+Agilent Technologies , agilent.com ,  , Office365 , agilent-com.mail.protection.outlook.com
+St. Paul Cos. , spt.com ,  , own-domain , emailu.spt.com
+SCI Systems , sci.com ,  , Google , aspmx.l.google.com
+Bear Stearns , bearstearns.com , MessageLabs , unknown , cluster14.us.messagelabs.com
+R.J. Reynolds Tobacco , rjrt.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+FPL Group , fpl.com ,  , Office365 , fpl-com.mail.protection.outlook.com
+Nextera Energy , nexteraenergy.com ,  , Office365 , nexteraenergy-com.mail.protection.outlook.com
+Smurfit-Stone Container , smurfit-stone.net ,  ,  , mx76.mb1p.com
+US Airways Group , usairways.com ,  , Office365 , aa-com.mail.protection.outlook.com
+Conseco , cnoinc.com ,  , own-domain , mx1.cnoinc.com
+Gillette , gillette.com ,  , own-domain , gillette.buergstadt.net
+Clear Channel Communications , clearchannel.com , ProofPoint , unknown , mxa-001b1801.gslb.pphosted.com
+Cenex Harvest States , chsinc.com , ProofPoint , unknown , mxa-002ae201.gslb.pphosted.com
+Aon , aon.com ,  , Office365 , aon-com.mail.protection.outlook.com
+Chubb , chubb.com , ProofPoint , unknown , mx0a-002a5f01.pphosted.com
+American Standard , americanstandard.com , ProofPoint , unknown , mxa-001e3101.gslb.pphosted.com
+Boise Cascade , bc.com , ProofPoint , unknown , mxa-001e5d01.gslb.pphosted.com
+KeyCorp , keybank.com ,  , own-domain , mail.keybank.com
+Eaton , eaton.com ,  , own-domain , mail.eaton.com
+Bank of New York Co. , bankofny.com , MessageLabs , unknown , cluster9bny.us.messagelabs.com
+Safeco , lmig.com ,  , own-domain , mx1.lmig.com
+Newell Rubbermaid , newellco.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+KeySpan , keyspanenergy.com , Cisco , unknown , mx2.hc189626.iphmx.com
+Northeast Utilities , nu.com , ProofPoint , unknown , mxa-0018e401.gslb.pphosted.com
+Plains All American Pipeline , paalp.com ,  , own-domain , mail2.paalp.com
+ArvinMeritor , arvinmeritor.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Avaya , avaya.com ,  , own-domain , p-us1-iereast.us1.avaya.com
+Centex , centex.com , ProofPoint , unknown , mxa-001af501.gslb.pphosted.com
+Premcor , valero.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+Gannett , gannett.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+United Auto Group , unitedauto.com , ProofPoint , unknown , mxb-00005602.gslb.pphosted.com
+Science Applications Intl. , saic.com ,  , own-domain , EM-MXP01.saic.com
+Gateway , gateway.com , MessageLabs , unknown , cluster2.us.messagelabs.com
+Saks , saksinc.com ,  , Google , ASPMX.L.GOOGLE.com
+Avista , avistacorp.com ,  , Office365 , avistacorp-com.mail.protection.outlook.com
+Unisys , unisys.com ,  , Office365 , unisys-com.mail.protection.outlook.com
+Smithfield Foods , smithfieldfoods.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Rohm & Haas , rohmhaas.com ,  , Office365 , rohmhaas-com.mail.protection.outlook.com
+ServiceMaster , svm.com , Cisco , unknown , mx1.servicemaster.iphmx.com
+Idacorp , idahopower.com ,  , own-domain , mail.idahopower.com
+Caremark Rx , caremarkrx.com , ProofPoint , unknown , mxa-0022b201.gslb.pphosted.com
+Allied Waste Industries , alliedwaste.com , ProofPoint , unknown , mxa-0021b301.gslb.pphosted.com
+Medtronic , medtronic.com , ProofPoint , unknown , mxb-00204301.gslb.pphosted.com
+Providian Financial , providian.com , MessageLabs , unknown , cluster14.us.messagelabs.com
+Federal-Mogul , federalmogul.com ,  , Office365 , federalmogul-com.mail.protection.outlook.com
+Fortune Brands , fortunebrands.com , ProofPoint , unknown , mxa-001a1201.gslb.pphosted.com
+USA Networks , usanetwork.com , ProofPoint , unknown , mxa-00176a04.gslb.pphosted.com
+BJ's Wholesale Club , bjs.com , ProofPoint , unknown , Mxa-00185201.gslb.pphosted.com
+Ikon Office Solutions , ricoh-usa.com , ProofPoint , unknown , mxa-00145802.gslb.pphosted.com
+Tribune , tribune.com ,  , Office365 , tribmedia.mail.protection.outlook.com
+TransMontaigne , transmontaigne.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Engelhard , engelhard.com ,  , Office365 , basf.mail.protection.outlook.com
+Goodrich , bfgoodrich.com , MessageLabs , unknown , cluster1.eu.messagelabs.com
+CNF , cnf.com , ProofPoint , unknown , mx0a-002b6701.pphosted.com
+Adams Resources & Energy , adamsresources.com ,  , own-domain , mail.adamsresources.com
+Pitney Bowes , pitneybowes.com ,  , Office365 , pitneybowes-com.mail.protection.outlook.com
+Dole Food , dole.com ,  , Office365 , dolefoods.mail.protection.outlook.com
+ITT Industries , itt.com ,  , own-domain , ussfa1cip-c1.ittcorp.com
+KB Home , kbhome.com , ProofPoint , unknown , mxa-00141101.gslb.pphosted.com
+McGraw-Hill , mheducation.com ,  , Office365 , mheducation-com.mail.protection.outlook.com
+OfficeMax , officemax.com ,  , Office365 , officemax-com.mail.protection.outlook.com
+Park Place Entertainment , parkplace.com , Barracuda , unknown , d29197a.ess.barracudanetworks.com
+Sierra Pacific Resources , nvenergy.com ,  , own-domain , ssmtp.nvenergy.com
+Maytag , maytag.com ,  , Google , ASPMX.L.GOOGLE.com
+Pinnacle West Capital , pinnaclewest.com , Cisco , unknown , mx2.aps.iphmx.com
+Murphy Oil , murphyoilcorp.com ,  , Office365 , murphyoilcorp-com.mail.protection.outlook.com
+Quantum , quantum.com ,  , Office365 , quantum-com.mail.protection.outlook.com
+Healthsouth , healthsouth.com ,  , own-domain , hpp2.healthsouth.com
+Administaff , administaff.com ,  , Office365 , administaff-com.mail.protection.outlook.com
+Black & Decker , bdk.com , ProofPoint , unknown , mxb-00254701.gslb.pphosted.com
+Golden State Bancorp , goldenstate.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Longs Drug Stores , longs.com , MarkMonitor , unknown , bh.markmonitor.com
+Levi Strauss , levistrauss.com ,  , Office365 , levistrauss-com.mail.protection.outlook.com
+NorthWestern , northwestern.com , ProofPoint , unknown , mxb-00194201.gslb.pphosted.com
+Cooper Industries , eaton.com ,  , own-domain , mail.eaton.com
+Computer Associates Intl. , ca.com , ProofPoint , unknown , mxb-001c7801.gslb.pphosted.com
+Comerica , comerica.com , ProofPoint , unknown , mx0a-00143801.pphosted.com
+Temple-Inland , temple-inland.com ,  ,  , mail.h-email.net
+Lexmark International , lexmark.com ,  , Google , aspmx.l.google.com
+SPX , spx.com , ProofPoint , unknown , mxb-0023ed01.gslb.pphosted.com
+Leggett & Platt , leggett.com , ProofPoint , unknown , mxb-0003de01.gslb.pphosted.com
+Nash Finch , nashfinch.com , ProofPoint , unknown , mxa-00183101.gslb.pphosted.com
+Jones Apparel Group , jny.com ,  , GoDaddy , smtp.secureserver.net
+Cox Communications , cox.com , ProofPoint , unknown , mxa-002b3901.gslb.pphosted.com
+Mellon Financial Corp. , mellon.com , MessageLabs , unknown , cluster9bny.us.messagelabs.com
+MGM Mirage , mgmresorts.com ,  , own-domain , inbound2.s4.mgmresorts.com
+Pittston , brinks.com , Cisco , unknown , mx2.brinksinc.iphmx.com
+Phelps Dodge , phelpsdodge.com ,  , GoDaddy , smtp.secureserver.net
+Echostar Communications , dish.com ,  , own-domain , mailin.dish.com
+MeadWestvaco , meadwestvaco.com ,  , Office365 , meadwestvaco-com.mail.protection.outlook.com
+Encompass Services , encompserv.com ,  , own-domain , mail.encompserv.com
+LTV , ltvsteel.com ,  ,  , smx1.web-hosting.com
+York International , york.com ,  , Google , york.com.s8a1.psmtp.com
+United Stationers , essendant.com ,  , own-domain , mx2.essendant.com
+Advanced Micro Devices , amd.com ,  , Office365 , amd-com.mail.protection.outlook.com
+Steelcase , steelcase.com ,  , Fortinet , gw141.fortimail.com
+FMC , fmc.com , Forcepoint , unknown , cust33514-1.in.mailcontrol.com
+Maxtor , seagate.com , ProofPoint , unknown , mxb-00003501.gslb.pphosted.com
+Energy East , iberdrola.com ,  , own-domain , sol1.iberdrola.com
+NTL , ntl.com ,  , own-domain , mailrelay03.ntl.com
+Host Marriott , hostmarriott.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+SouthTrust Corp. , southtrust.com , ProofPoint , unknown , mx1-us2.ppe-hosted.com
+Harrah's Entertainment , caesars.com ,  , own-domain , smtp1.caesars.com
+Brunswick , brunswick.com , ProofPoint , unknown , mxa-00185c01.gslb.pphosted.com
+Family Dollar Stores , familydollar.com , ProofPoint , unknown , mxa-00183e01.gslb.pphosted.com
+Kerr-McGee , anadarko.com ,  , own-domain , houipmsx004.anadarko.com
+Smith International , smith.com ,  , Office365 , smith-com.mail.protection.outlook.com
+Spartan Stores , spartanstores.com , ProofPoint , unknown , mxa-00183101.gslb.pphosted.com
+USA Education , salliemae.com , FireEye , unknown , primary.us.email.fireeyecloud.com
+Interstate Bakeries , irin.com ,  ,  , email.dstsystems.com
+Roundy's , kroger.com ,  , own-domain , mail2.dmz.kroger.com
+Scana , scana.com ,  , own-domain , csmtp3.scana.com
+Liz Claiborne , katespade.com ,  , own-domain , mx2.katespadeandcompany.com
+Core-Mark International , coremark.com , Trend Micro , unknown , in-mig04.hes.trendmicro.com
+Foster Wheeler , fwc.com ,  , Office365 , fwc-com.mail.protection.outlook.com
+Borders Group , bordersgroupinc.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Shopko Stores , shopko.com ,  , own-domain , mail01.shopko.com
+Puget Energy , puget.com ,  , own-domain , Extmx1.puget.com
+Tenneco Automotive , tenneco-automotive.com ,  , Office365 , tennecoautomotive-com01i.mail.protection.outlook.com
+Western Gas Resources , westerngas.com ,  , Office365 , westerngas-com.mail.eo.outlook.com
+Bethlehem Steel , bethsteel.com ,  , Return Path , mail.b-io.co
+Jefferson-Pilot , lfg.com ,  , own-domain , nc2pamta03.lfg.com
+Burlington Resources , br-inc.com ,  , own-domain , smtp.br-inc.com
+Allmerica Financial , allmerica.com ,  , Office365 , allmerica-com.mail.eo.outlook.com
+USG , usg.com ,  , own-domain , mail01.usg.com
+Yellow , yrcw.com ,  , own-domain , osmtp01.yrcw.com
+Northern Trust Corp. , northerntrust.com , ProofPoint , unknown , mxa-00185f01.gslb.pphosted.com
+JDS Uniphase , jdsuniphase.com , ProofPoint , unknown , mxa-00158d01.gslb.pphosted.com
+Lyondell Chemical , lyondell.com , Cisco , unknown , mx1.lyondellbasell.iphmx.com
+Airborne , airborne.com ,  , Google , aspmx.l.google.com
+Comdisco , comdisco.com , SpamExperts / SolarWinds , unknown , mx.spamexperts.com
+NSTAR , eversource.com , ProofPoint , unknown , mxa-0018e401.gslb.pphosted.com
+OGE Energy , oge.com ,  , Office365 , oge-com.mail.protection.outlook.com
+Staff Leasing , trinet.com ,  , own-domain , mx2.trinet.com
+Coventry Health Care , coventryhealth.com ,  , Office365 , coventryhealth-com.mail.protection.outlook.com
+Armstrong Holdings , armstrong.com ,  , Office365 , armstrong-com.mail.protection.outlook.com
+Equity Office Properties , equityoffice.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Lennox International , lennox.com ,  , Office365 , lennox-com.mail.protection.outlook.com
+American Axle & Mfg. , aam.com ,  , Office365 , aam-com.mail.protection.outlook.com
+New York Times , nytimes.com ,  , Google , ASPMX.L.GOOGLE.com
+Hughes Supply , hughessupply.com , Cisco , unknown , mx2.hajoca.iphmx.com
+Vulcan Materials , vul.com ,  , own-domain , smtprelay01.vul.com
+Universal , universalcorp.com ,  , Office365 , universalcorp-com.mail.protection.outlook.com
+Neiman Marcus , neimanmarcus.com ,  , Google , aspmx.l.google.com
+3Com , 3com.com , ProofPoint , unknown , mxb-00010e01.gslb.pphosted.com
+H&R Block , hrblock.com , Cisco , unknown , mx1.hc2079-83.iphmx.com
+Trigon Healthcare , trigon.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Unified Western Grocers , uwgrocers.com ,  , Office365 , uwgrocers-com.mail.protection.outlook.com
+Payless Shoesource , paylessshoesource.com ,  , Office365 , paylessshoesource-com.mail.protection.outlook.com
+TruServ , truserv.com ,  , Office365 , truserv-com.mail.protection.outlook.com
+Pioneer-Standard Electronics , agilysys.com , Barracuda , unknown , d124834a.ess.barracudanetworks.com
+Knight-Ridder , kri.com ,  ,  , MCFARLINS.COM.S7A1.PSMTP.com
+Ace Hardware , acehardware.com ,  , Office365 , acehardware-com.mail.protection.outlook.com
+Fisher Scientific International , fischersci.com ,  , 1and1 , mx01.1and1.com
+Hasbro , hasbro.com ,  , Office365 , hasbro-com.mail.protection.outlook.com
+KPMG Consulting , kpmgconsulting.com ,  , own-domain , mail.kpmgconsulting.com
+Charter One Financial , charterone.com ,  , Office365 , charterone-com.mail.protection.outlook.com
+Thermo Electron , thermo.com , ProofPoint , unknown , mxa-002a2102.gslb.pphosted.com
+Transocean Sedco Forex , deepwater.com , ProofPoint , unknown , mxb-00122101.gslb.pphosted.com
+Solutia , solutia.com ,  , Office365 , solutia-com.mail.protection.outlook.com
+Pactiv , pactiv.com , ProofPoint , unknown , mxa-00006001.gslb.pphosted.com
+Wackenhut , wackenhut.com ,  , Google , aspmx.l.google.com
+Pentair , pentair.com , ProofPoint , unknown , mxa-00220d01.gslb.pphosted.com
+Alliant Energy , alliantenergy.com ,  , own-domain , escan1.alliantenergy.com
+Ruddick , ruddickcorp.com ,  , own-domain , ruddickcorp.com
+Ryland Group , ryland.com ,  , Office365 , ryland-com.mail.protection.outlook.com
+IMC Global , mosaicco.com ,  , Office365 , mosaicco-com.mail.protection.outlook.com
+Spherion , spherion.com ,  , Google , ASPMX.L.GOOGLE.com
+Beverly Enterprises , goldenliving.com ,  , own-domain , glimsa01.goldenliving.com
+Marshall & Ilsley Corp. , micorp.com ,  ,  , bmfgmx01.bmofg.com
+Guidant , guidant.com , Cisco , unknown , mx2.bsci.iphmx.com
+Torchmark , torchmarkcorp.com , ProofPoint , unknown , mx0a-00218002.pphosted.com
+Manor Care , hcr-manorcare.com ,  , Office365 , hcrmanorcare-com0i.mail.protection.outlook.com
+Triad Hospitals , triadhospitals.com ,  , own-domain , triadhospitals.com
+PolyOne , polyone.com ,  , Office365 , polyone-com.mail.protection.outlook.com
+TECO Energy , tampaelectric.com ,  , own-domain , smtp2.tampaelectric.com
+Pantry , thepantry.com ,  , Office365 , thepantry-com.mail.protection.outlook.com
+Nacco Industries , nacco.com ,  , Google , aspmx.l.google.com
+Stanley Works , stanleyworks.com , ProofPoint , unknown , mxb-00254701.gslb.pphosted.com
+Sonoco Products , sonoco.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+M & T Bank Corp. , mandtbank.com , ProofPoint , unknown , mxa-001e9201.gslb.pphosted.com
+Stater Bros. Holdings , staterbros.com ,  , own-domain , mx1.staterbros.com
+Citizens Communications , czn.com ,  , Office365 , czn-com.mail.protection.outlook.com
+Genesis Health Ventures , ghv.com ,  , GoDaddy , smtp.secureserver.net
+Popular , bppr.com ,  , own-domain , bppr.com.mx.evertecinc.net
+National Service Industries , nationalservice.com ,  , Return Path , mail.b-io.co
+Nicor , nicor.com , ProofPoint , unknown , mxa-00113601.gslb.pphosted.com
+Unitrin , unitrin.com , MessageLabs , unknown , cluster2.us.messagelabs.com
+Fleetwood Enterprises , fleetwood.com ,  , own-domain , mail.fleetwood.com
+Michaels Stores , michaels.com ,  , Office365 , michaels-com.mail.protection.outlook.com
+American Greetings , americangreetings.com , ProofPoint , unknown , mxa-00172901.gslb.pphosted.com
+Reader's Digest Association , rd.com ,  , Office365 , rd-com.mail.protection.outlook.com
+Service Corp. International , sci-us.com , Cisco , unknown , mx1.sci-us.iphmx.com
+Potomac Electric Power , exeloncorp.com ,  , own-domain , esa-ccc-101.exeloncorp.com
+PetsMart , petsmart.com ,  , Office365 , petsmart-com.mail.protection.outlook.com
+Alberto-Culver , alberto.com ,  , Google , alt1.aspmx.l.google.com
+Penn Traffic , penntraffic.com ,  , own-domain , mail.penntraffic.com
+Dura Automotive Systems , duraauto.com , ProofPoint , unknown , mxa-0029a301.gslb.pphosted.com
+Brinker International , brinker.com ,  , own-domain , smtp.brinker.com
+Sabre Holdings , sabre.com , ProofPoint , unknown , mxb-00257e01.gslb.pphosted.com
+Tower Automotive , towerautomotive.com ,  , Google , ASPMX.L.GOOGLE.com
+Footstar , footstar.com ,  , GoDaddy , smtp.secureserver.net
+First Tennessee National Corp. , firsttennessee.com ,  , own-domain , margate02.firsttennessee.com
+Robert Half International , rhi.com ,  , Office365 , rhii-com.mail.protection.outlook.com
+Bowater , bowater.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Huntington Bancshares , huntington.com ,  , own-domain , gw3net.huntington-bank.com
+Timken , timken.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+CellStar , cellstar.com ,  ,  , mx174.mb5p.com
+Exide Technologies , exideworld.com ,  , own-domain , exideworld.com.1.0001.arsmtp.com
+Exide Technologies , wrigley.com ,  , Office365 , wrigley-com.mail.protection.outlook.com
+Adolph Coors , coors.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Washington Post , washingtonpost.com , ProofPoint , unknown , mxa-001a3c01.gslb.pphosted.com
+ADC Telecommunications , adc.com ,  , Office365 , adc-com.mail.protection.outlook.com
+Wendy's International , wendys.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+McCormick , mccormick.com ,  , Office365 , mccormick-com.mail.protection.outlook.com
+Molex , molex.com , ProofPoint , unknown , mxa-00164e02.gslb.pphosted.com
+Louisiana-Pacific , lpcorp.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+PNM Resources , pnm.com , ProofPoint , unknown , mxb-00241501.gslb.pphosted.com
+Broadwing , broadwing.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Weatherford International , weatherford.com ,  , Office365 , weatherford-com.mail.protection.outlook.com
+Convergys , convergys.com ,  , Office365 , convergys-com.mail.protection.outlook.com
+URS , urscorp.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Pennzoil-Quaker State , pennzoil.com ,  , Office365 , shell-com.mail.protection.outlook.com
+Bemis , bemis.com ,  , own-domain , mail050.bemis.com
+Kellwood , kellwood.com ,  , Office365 , kellwood-com.mail.protection.outlook.com
+Belk , belk.com ,  , Office365 , belk-com.mail.protection.outlook.com
+Analog Devices , analog.com ,  , Office365 , analog-com.mail.protection.outlook.com
+Peoples Energy , pecorp.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Mail-Well , mail-well.com ,  , Hostinger , mx1.hostinger.com
+La-Z-Boy , lazboy.com , ProofPoint , unknown , mx1.la-z-boy.com.gslb.pphosted.com
+Ryerson Tull , ryerson.com ,  , Office365 , ryerson-com.mail.protection.outlook.com
+Chiquita Brands International , chiquita.com ,  , Office365 , chiquita-com.mail.protection.outlook.com
+Herman Miller , hermanmiller.com ,  , own-domain , securemail1.hermanmiller.com
+Budget Group , drivebudget.com ,  ,  , mail1.ixlhosting.net
+BJ Services , bjservices.com , Barracuda , unknown , sdbarracuda.sebodata.com
+Toll Brothers , tollbrothers.com , ProofPoint , unknown , mxa-0019ed02.gslb.pphosted.com
+Polo Ralph Lauren , ralphlauren.com ,  , own-domain , ns10.ralphlauren.com
+Nabors Industries , nabors.com , Cisco , unknown , mx2.nabors.iphmx.com
+MDU Resources Group , mdu.com ,  , Google , aspmx.l.google.com
+Pilgrim's Pride , pilgrimspride.com , ProofPoint , unknown , mxa-0021de01.gslb.pphosted.com
+Tellabs , tellabs.com ,  , Office365 , mx12-01.sherwebcloud.com
+Pep Boys , pepboys.com , ProofPoint , unknown , mxa-00247301.gslb.pphosted.com
+Equity Residential Properties , equityapartments.com ,  , Google , aspmx.l.google.com
+Vectren , vectren.com ,  , own-domain , mail6.vectren.com
+Cintas , cintas.com , Cisco , unknown , esa4.cintas.iphmx.com
+Omnicare , omnicare.com , ProofPoint , unknown , mxb-0022b201.gslb.pphosted.com
+Maxxam , maxxamlabs.com ,  , own-domain , maxxamlabs.com.1.arsmtp.com
+American National Insurance , anico.com ,  , own-domain , mail2.anico.com
+Allegheny Technologies , alleghenytechnologies.com , ProofPoint , unknown , mx0a-00270e01.pphosted.com
+Outback Steakhouse , outback.com ,  , Office365 , outback-com.mail.protection.outlook.com
+MDC Holdings , richmondamerican.com , ProofPoint , unknown , mxa-00150f02.gslb.pphosted.com
+Sun Healthcare Group , genesishcc.com ,  , own-domain , mx176.genesishcc.com
+CenturyTel , centurylink.com ,  , own-domain , lxomp51w.centurylink.com
+National Semiconductor , national.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Swift Transportation , swifttrans.com , Cisco , unknown , mx1.swifttrans.iphmx.com
+CUNA Mutual Group , cunamutual.com ,  , Office365 , cunamutual-com.mail.protection.outlook.com
+Harsco , harsco.com ,  , Office365 , hsconline.mail.protection.outlook.com
+Hillenbrand Industries , hillenbrand.com , ProofPoint , unknown , mxa-0019c401.gslb.pphosted.com
+Wyndham International , wyndham.com , ProofPoint , unknown , mxa-00128602.gslb.pphosted.com
+Kla-Tencor , kla-tencor.com , ProofPoint , unknown , mxb-00001b01.gslb.pphosted.com
+MONY Group , equitable.com ,  , own-domain , i51mrp01.equitable.com
+National Fuel Gas , natfuel.com ,  , Google , ASPMX.L.GOOGLE.com
+Williams-Sonoma , williams-sonomainc.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Snap-On , snapon.com ,  , Google , aspmx.l.google.com
+Mariner Post-Acute Network , marinerhealthcare.com ,  , Office365 , marinerhealthcare-com.mail.protection.outlook.com
+Nortek , nortek.com ,  , Office365 , nortek-com.mail.protection.outlook.com
+Zale , zales.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+America West Holdings , americawest.com ,  , Office365 , aa-com.mail.protection.outlook.com
+E*Trade Group , etrade.com ,  , Office365 , etrade-com.mail.protection.outlook.com
+New Jersey Resources , njresources.com , Cisco , unknown , mx1.njng.iphmx.com
+Zions Bancorp. , zionsbank.com , ProofPoint , unknown , mxb-00110e01.gslb.pphosted.com
+Compuware , compuware.com ,  , Office365 , compuware-com.mail.protection.outlook.com
+RPM , rpminc.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Bell Microproducts , avnet.com ,  , own-domain , smarthost.avnet.com
+General Cable Corporation , generalcable.com , ProofPoint , unknown , mxa-00156201.gslb.pphosted.com
+Volt Information Sciences , volt.com ,  , Office365 , volt.mail.protection.outlook.com
+Metaldyne , metaldyne.com , Cisco , unknown , mx1.metaldyne.iphmx.com
+Charming Shoppes , ascenaretail.com , ProofPoint , unknown , mxa-00217301.gslb.pphosted.com
+Weis Markets , weismarkets.com ,  , own-domain , mx10b.weismarkets.com
+Beckman Coulter , beckmancoulter.com , ProofPoint , unknown , mxb-001d2f01.gslb.pphosted.com
+Protective Life , protective.com ,  , own-domain , plcmail3.protective.com
+CBRL Group , cbrlgroup.com , Barracuda , unknown , d63757a.ess.barracudanetworks.com
+Scholastic , scholastic.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Harris , harris.com ,  , own-domain , rocxsmtp3.harris.com
+Ingles Markets , ingles-markets.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Silgan Holdings , silgan.com , Barracuda , unknown , d117304a.ess.barracudanetworks.com
+WGL Holdings , wglholdings.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+SunGard Data Systems , sungard.com ,  , Office365 , fisglobal-com.mail.protection.outlook.com
+Safeguard Scientifics , safeguard.com , ProofPoint , unknown , mx1-us1.ppe-hosted.com
+Brown-Forman , brown-forman.com ,  , Google , ASPMX.L.GOOGLE.com
+Valspar , sherwin.com ,  , own-domain , emhost52.sherwin.com
+Flowserve , flowserve.com , ProofPoint , unknown , mxa-001e8d01.gslb.pphosted.com
+Teleflex , teleflex.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Compass Bancshares , bbvacompass.com ,  , Google , aspmx.l.google.com
+Furniture Brands International , furniturebrands.com ,  , Office365 , furniturebrands-com.mail.protection.outlook.com
+Sentry Insurance Group , sentry.com , ProofPoint , unknown , mxb-00109a02.gslb.pphosted.com
+DynCorp , dyn-intl.com , ProofPoint , unknown , mxb-00203701.gslb.pphosted.com
+Frontier Oil , hollycorp.com ,  , own-domain , mx1.hollycorp.com
+Alpine Group , alpinegroup.com ,  , own-domain , alpinegroup.com.1.arsmtp.com
+Corn Products International , ingredion.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Health Management Associates , hma-corp.com ,  , own-domain , hma-corp.com
+Marsh Supermarkets , marsh.net ,  , Google , ASPMX.L.GOOGLE.COM
+Magellan Health Services , magellanhealth.com ,  , Office365 , magellanhealth-com.mail.protection.outlook.com
+Carlisle , carlisle.com ,  , Office365 , carlisle-com.mail.protection.outlook.com
+Lubrizol , lubrizol.com , Cisco , unknown , mx1.lubrizol.iphmx.com
+Intl. Flavors & Fragrances , iff.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Jack in the Box , jackinthebox.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Worthington Industries , worthingtonindustries.com , ProofPoint , unknown , mxb-0019cf02.gslb.pphosted.com
+Brightpoint , ingrammicro.com , ProofPoint , unknown , mx0a-0021cb01.pphosted.com
+Amerco , uhaul.com ,  , own-domain , fc.uhaul.com
+Gold Kist , pilgrims.com , ProofPoint , unknown , mxa-0021de01.gslb.pphosted.com
+Rent A Center , rentacenter.com , ProofPoint , unknown , mxa-000ec701.gslb.pphosted.com
+Kennametal , kennametal.com ,  , Office365 , kennametal-com.mail.protection.outlook.com
+Beazer Homes USA , beazer.com ,  , Office365 , beazer-com.mail.protection.outlook.com
+Minnesota Life Ins. , minnesotamutual.com , ProofPoint , unknown , mxb-0016f501.gslb.pphosted.com
+Hon Industries , honi.com ,  , Office365 , honi-com.mail.protection.outlook.com
+Dow Jones , dowjones.com ,  , Google , aspmx.l.google.com
+WestPoint Stevens , westpointstevens.com ,  ,  , mx92.m1bp.com
+Equitable Resources , eqt.com ,  , own-domain , mail1.eqt.com
+Diebold , diebold.com ,  , own-domain , mailgate3.diebold.com
+W.R. Grace , grace.com ,  , own-domain , relay12.grace.com
+Brown Shoe , brownshoe.com ,  , Office365 , brownshoe-com.mail.protection.outlook.com
+Sequa , sequa.com , MessageLabs , unknown , Cluster5.US.MessageLabs.com
+Potlatch , potlatchcorp.com ,  , Office365 , potlatchcorp-com.mail.protection.outlook.com
+Scotts Company , scotts.com ,  ,  , mailstream-east.mxrecord.io
+National Oilwell , natoil.com , ProofPoint , unknown , mxb-001b7901.gslb.pphosted.com
+Primedia , primediany.com ,  , own-domain , mail.primediany.com
+Hovnanian Enterprises , khov.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Southern States Coop. , southernstates.com ,  , own-domain , mail.southernstates.com
+Paychex , paychex.com , ProofPoint , unknown , mxa-0018d001.gslb.pphosted.com
+Hawaiian Electric Industries , hei.com ,  , Office365 , hei-com.mail.protection.outlook.com
+Greenpoint Financial , capitalone.com ,  , own-domain , kimail01.capitalone.com
+Bausch & Lomb , bausch.com , Cisco , unknown , mx2.valeant.iphmx.com
+Concord EFS , firstdata.com ,  , own-domain , x3ppir014.firstdata.com
+Cabot , cabot-corp.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Dial , henkel.com ,  , Office365 , henkel-com.mail.protection.outlook.com
+Energizer Holdings , energizer.com ,  , Office365 , energizer-com.mail.protection.outlook.com
+Integrated Electrical Services , ielectric.com ,  , Return Path , mail.b-io.co
+Wallace Computer Services , rrdonnelley.com ,  , Google , aspmx.l.google.com
+Allergan , allergan.com ,  , Office365 , allergan-com.mail.protection.outlook.com
+Metals USA , metalsusa.com ,  , Office365 , metalsusa-com.mail.protection.outlook.com
+EGL , eagle-freight.com ,  , Office365 , eaglefreight-com01c.mail.protection.outlook.com
+Allete , allete.com , Securence , unknown , smtp1-msp.securence.com
+DST Systems , dstsystems.com ,  , own-domain , email.dstsystems.com
+Viad , viad.com ,  , Office365 , viad-com.mail.protection.outlook.com
+Xilinx , xilinx.com ,  , Office365 , xilinx-com.mail.protection.outlook.com
+Vishay Intertechnology , vishay.com ,  , Office365 , vishay-com.mail.protection.outlook.com
+Applera , applera.com , ProofPoint , unknown , mxa-002a2102.gslb.pphosted.com
+UST , ustinc.com ,  , own-domain , mail.ustinc.com
+Flowers Foods , flowersfoods.com ,  , own-domain , mail.flowersfoods.com
+Applied Industrial Technologies , applied.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Tiffany & Co , tiffany.com ,  , Office365 , tiffany-com.mail.protection.outlook.com
+Ciena , ciena.com , ProofPoint , unknown , mxa-00103a01.gslb.pphosted.com
+PerkinElmer , perkinelmer.com , ProofPoint , unknown , mxa-001d5701.gslb.pphosted.com
+Great Lakes Chemical , chemtura.com ,  , Office365 , chemtura-com.mail.protection.outlook.com
+Millennium Chemicals , millenniumchem.com ,  , Office365 , cristal-com.mail.protection.outlook.com
+Crane , craneco.com , ProofPoint , unknown , mxa-00220701.gslb.pphosted.com
+StanCorp Financial , stancorpfinancial.com , ProofPoint , unknown , mxa-0001e501.gslb.pphosted.com
+Maxim Integrated Products , maximintegrated.com ,  , Office365 , maximintegrated-com.mail.protection.outlook.com
+Agway , agway.com ,  , Google , aspmx.l.google.com
+Noble Affiliates , nblenergy.com , Cisco , unknown , mx1.nobleenergyinc.iphmx.com
+Jo Ann Stores , joann.com ,  , Google , aspmx.l.google.com
+Lands' End , landsend.com ,  , Office365 , landsend-com.mail.protection.outlook.com
+Cooper Cameron , coopercameron.com ,  , Office365 , coopercameron-com.mail.protection.outlook.com
+Black Hills , blackhillscorp.com ,  , own-domain , nemiironp01.blackhillscorp.com
+Stilwell Financial , stilwellfinancial.com ,  , own-domain , smtp.stilwellfinancial.com
+Perini , perini.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Thomas & Betts , tnb.com ,  , Office365 , abb-com.mail.protection.outlook.com
+Imperial Sugar , imperialsugar.com ,  , Office365 , imperialsugar-com.mail.protection.outlook.com
+MPS Group , mpsgroup.com ,  , Office365 , mpsgroup-com.mail.protection.outlook.com
+Champion Enterprises , championhomes.net , ProofPoint , unknown , mx1-us1.ppe-hosted.com
+Granite , graniteconstruction.com ,  , SmarterTools , mail27.safesecureweb.com
+National Commerce Financial , suntrust.com ,  , own-domain , mx5.suntrust.com
+Systemax , systemax.com ,  , own-domain , mail-01.systemax.com
+Comfort Systems USA , comfortsystemsusa.com ,  , Office365 , comfortsystemsusa-com.mail.protection.outlook.com
+Greif Bros. , greif.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Astoria Financial , astoriafederal.com ,  , own-domain , mail.astoriafederal.com
+Shaw Group , shawgrp.com ,  , own-domain , smtp3.shawgrp.com
+Di Giorgio , whiterose.com ,  , own-domain , mail.whiterose.com
+Equifax , equifax.com ,  , own-domain , smtp.equifax.com
+Legg Mason , leggmason.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Universal Forest Products , ufpi.com ,  , Office365 , ufpi-com.mail.protection.outlook.com
+Arkansas Best , data-tronics.com ,  , own-domain , mx02.data-tronics.com
+GATX , gatx.com , Mimecast , unknown , us-smtp-inbound-2.mimecast.com
+Amkor Technology , amkor.com , ProofPoint , unknown , mxb-001cf902.gslb.pphosted.com
+Pride International , enscoplc.com , ProofPoint , unknown , mxa-002b3f01.gslb.pphosted.com
+Polaris Industries , polarisindustries.com ,  , Office365 , polarisindustries-com.mail.protection.outlook.com
+Del Monte Foods , delmonte.com ,  , Office365 , delmonte-com.mail.protection.outlook.com
+Mercury General , mercuryinsurance.com ,  , Office365 , mercuryinsurance-com.mail.protection.outlook.com
+Martin Marietta Materials , martinmarietta.com ,  , Office365 , martinmarietta-com.mail.protection.outlook.com
+US Oncology , usoncology.com ,  , own-domain , mail.usoncology.com
+BMC Software , bmc.com ,  , own-domain , mx-us-aus-01.bmc.com
+Ferro , ferro.com ,  , Office365 , ferro-com.mail.protection.outlook.com
+Veritas Software , veritas.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Arch Coal , archcoal.com , ProofPoint , unknown , mxa-000f9e01.gslb.pphosted.com
+CDI , cdicorp.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+GenCorp , rocket.com ,  , own-domain , mx01.rocket.com
+Atmel , atmel.com , Cisco , unknown , mx1.microchip.iphmx.com
+AIMCO , aimco.com ,  , Office365 , aimco-com.mail.protection.outlook.com
+Great Plains Energy , gpenergy.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+E.W. Scripps , scripps.com , ProofPoint , unknown , mxb-0028be01.gslb.pphosted.com
+Banta , banta.com ,  , Google , aspmx.l.google.com
+TMP Worldwide , tmp.com ,  , Office365 , tmp-com.mail.eo.outlook.com
+Unisource Energy , unisourceenergy.com ,  , Google , aspmx.l.google.com
+Atmos Energy , atmosenergy.com ,  , own-domain , dal00pumxg000.atmosenergy.com
+Rock-Tenn , rocktenn.com ,  , Office365 , rocktenn-com.mail.protection.outlook.com
+Teradyne , teradyne.com , ProofPoint , unknown , mxa-0015db01.gslb.pphosted.com
+Questar , questarcorp.com ,  , Office365 , questar-com.mail.protection.outlook.com
+American Water Works , amwater.com , Cisco , unknown , mx1.amwater.iphmx.com
+CSK Auto , oreillyauto.com , Trend Micro , unknown , oreillyauto.com.e0040.g0004.pg0089.im.emailsecurity.trendmicro.com
+CKE Restaurants , ckr.com ,  , Office365 , ckr-com.mail.protection.outlook.com
+American Power Conversion , apcc.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Cadence Design Systems , cadence.com , ProofPoint , unknown , mxa-0014ca01.gslb.pphosted.com
+Sports Authority , sportsauthority.com ,  , Google , aspmx.l.google.com
+Pier 1 Imports , pier1.com , ProofPoint , unknown , mxb-00154801.gslb.pphosted.com
+Fairchild Semiconductor Intl. , fairchildsemi.com ,  , Google , aspmx.l.google.com
+Kemet , kemet.com ,  , Office365 , kemet-com.mail.protection.outlook.com
+Burlington Industries , burlington.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Dreyer's Grand Ice Cream , dreyers.com ,  , Office365 , nestle-com.mail.protection.outlook.com
+Stewart & Stevenson Services , ssss.com , ProofPoint , unknown , mxb-0016e601.gslb.pphosted.com
+Tecumseh Products , tecumseh.com ,  , Office365 , tecumseh-com.mail.protection.outlook.com
+Southwest Gas , swgas.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Landstar System , landstar.com ,  , own-domain , mail.landstar.com
+Advantica , advantica-dine.com ,  , own-domain , advantica-dine.com
+National Rural Utilities Cooperative , nrucfc.org ,  , Office365 , nrucfc-org.mail.protection.outlook.com
+Trans World Entertainment , twec.com ,  , own-domain , mail2.twec.com
+Metro-Goldwyn-Mayer , mgm.com ,  , Office365 , mgm-com.mail.protection.outlook.com
+Cytec Industries , cytec.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Standard Pacific , calatlantic.com ,  ,  , east.smtp.mail.birchconnect.com
+Gentiva Health Services , gentiva.com , Cisco , unknown , mx1.kindred.iphmx.com
+American Eagle Outfitters , ae.com , ProofPoint , unknown , mxa-0017bf01.gslb.pphosted.com
+OneAmerica Financial , aul.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Nvidia , nvidia.com ,  , own-domain , nvidiahk.nvidia.com
+Gemstar-TV Guide International , gemstartvguide.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Acterna , acterna.com , ProofPoint , unknown , mxb-00158d01.gslb.pphosted.com
+Abercrombie & Fitch , abercrombie.com , ProofPoint , unknown , mxa-0026d501.gslb.pphosted.com
+MGIC Investment , mgic.com , ProofPoint , unknown , mxa-0014c601.gslb.pphosted.com
+Toro , toro.com ,  , Office365 , toro-com.mail.protection.outlook.com
+Knights of Columbus , kofc.org ,  , own-domain , mail01.kofc.org
+Novellus Systems , novellus.com , ProofPoint , unknown , mxa-00054001.gslb.pphosted.com
+Pro-Fac Cooperative , agrilinkfoods.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Provident Financial Group , provident.bank , ProofPoint , unknown , mxa-001d6001.gslb.pphosted.com
+IMS Health , imshealth.com ,  , Office365 , imshealth-com.mail.protection.outlook.com
+Gentek , gentek-global.com ,  ,  , chemtradelogistics-com.mx1-ca.mailanyone.net
+Carpenter Technology , cartech.com ,  , own-domain , cartech.com.inbound10.mxlogic.net
+Electronic Arts , ea.com ,  , Office365 , ea-com.mail.protection.outlook.com
+Revlon , revlon.com ,  , own-domain , revlon.com.1.arsmtp.com
+Stein Mart , steinmart.com ,  , Office365 , steinmart-com.mail.protection.outlook.com
+Hub Group , hubgroup.com ,  , Office365 , hubgroup-com.mail.protection.outlook.com
+Briggs & Stratton , briggsandstratton.com ,  , Google , aspmx.l.google.com
+Hubbell , hubbell.com , ProofPoint , unknown , mxb-00126502.gslb.pphosted.com
+Regis , regiscorp.com ,  , Office365 , regiscorp-com.mail.protection.outlook.com
+Dun & Bradstreet , dnb.com ,  , Office365 , dnb-com.mail.protection.outlook.com
+Petco Animal Supplies , petco.com , ProofPoint , unknown , mx0a-00004901.pphosted.com
+AnnTaylor , anntaylor.com , ProofPoint , unknown , mxa-00190c01.gslb.pphosted.com
+First National of Nebraska , fnni.com ,  , own-domain , mg1.fnni.com
+DQE , dqe.com ,  , Office365 , dqe-com.mail.protection.outlook.com
+Pacific Century Financial , boh.com ,  , own-domain , smtp3-kap.boh.com
+Deluxe , dlx.com , Carrier Zone , unknown , mx1c40.carrierzone.com
+Benchmark Electronics , bench.com , ProofPoint , unknown , mxb-0004c701.gslb.pphosted.com
+H.B. Fuller , hbfuller.com ,  , Office365 , hbfuller-com.mail.protection.outlook.com
+Men's Wearhouse , menswearhouse.com , ProofPoint , unknown , mxb-001c5c01.gslb.pphosted.com
+Stewart Information Services , stewart.com , ProofPoint , unknown , mxb-001a8d01.gslb.pphosted.com
+Olin , olin.com ,  , Office365 , olin-com.mail.protection.outlook.com
+Werner Enterprises , werner.com ,  , Office365 , werner-com.mail.protection.outlook.com
+Comverse Technology , cmvt.com ,  , own-domain , mail.cmvt.com
+Varco International , varco.com ,  , Office365 , varco-com.mail.eo.outlook.com
+Audiovox , audiovox.com ,  , own-domain , voxrelay2-c.audiovox.com
+Amica Mutual Insurance , amica.com , ProofPoint , unknown , mxa-000f3401.gslb.pphosted.com
+Milacron , milacron.com ,  , own-domain , mail4.milacron.com
+Intuit , intuit.com ,  , own-domain , smtp-qcz.intuit.com
+Kimball International , kimball.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+XO Communications , xo.com ,  , Office365 , xo-com.mail.protection.outlook.com
+Domino's , dominos.com , ProofPoint , unknown , mxa-00075301.gslb.pphosted.com
+Massey Energy , masseyenergyco.com ,  , own-domain , masseyenergyco.com
+Texas Industries , txi.com ,  , Office365 , txi-com.mail.protection.outlook.com
+Riverwood Holding , riverwood.com ,  ,  , mx92.m1bp.com
+EarthLink , earthlink.net ,  , own-domain , mx3.earthlink.net
+Ceridian , ceridian.com , ProofPoint , unknown , mxa-0001b201.gslb.pphosted.com
+Union Central Life , ameritas.com ,  , own-domain , smtp.ameritas.com
+Watsco , watsco.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Foamex International , fxi.com , Barracuda , unknown , d67071a.ess.barracudanetworks.com
+CMGI , cmgi.com ,  , Office365 , cmgi-com.mail.protection.outlook.com
+Pall , pall.com , ProofPoint , unknown , mxa-001d2f01.gslb.pphosted.com
+Harleysville Mutual Insurance , nationwide.com ,  , own-domain , raza.nationwide.com
+Tektronix , tek.com , ProofPoint , unknown , mxa-001d2f02.gslb.pphosted.com
+Oglethorpe Power , opc.com ,  , Office365 , opc-com.mail.protection.outlook.com
+IDT , idt.net ,  , Google , aspmx.l.google.com
+Adobe Systems , adobe.com ,  , Office365 , adobe-com.mail.protection.outlook.com
+Alleghany , alleghany.com ,  , own-domain , mail2.alleghany.com
+Genzyme , sanofi.com ,  , own-domain , xspz10p852b.sanofi.com
+MasTec , mastec.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Genuity , genuity.com , Forcepoint , unknown , cust42593-1-in.mailcontrol.com
+Grey Global , grey.com , ProofPoint , unknown , mxb-00173203.gslb.pphosted.com
+Ivax , tevapharm.com ,  , own-domain , mx02.tevapharm.com
+AMC Entertainment , amctheatres.com , ProofPoint , unknown , mxa-001b2001.gslb.pphosted.com
+On Semiconductor , onsemi.com , ProofPoint , unknown , mxb-00183b01.gslb.pphosted.com
+Software Spectrum , level3.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Viasystems Group , viasystems.com , MessageLabs , unknown , cluster2.us.messagelabs.com
+Georgia Gulf , ggc.com ,  , GoDaddy , smtp.secureserver.net
+Forest Laboratories , frx.com ,  , Office365 , frx-com.mail.protection.outlook.com
+Perot Systems , perotsystems.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Trump Hotels & Casino Resorts , trump.com ,  , Office365 , trump-com.mail.protection.outlook.com
+FelCor Lodging , felcor.com ,  , Office365 , felcor-com.mail.protection.outlook.com
+DPL , dplinc.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+International Game Technology , gtech.com ,  , own-domain , edgemail.gtech.com
+Blyth , blythinc.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+TCF Financial Corp. , tcfbank.com , Cisco , unknown , mx1.tcfbank.iphmx.com
+Sealy , sealy.com , ProofPoint , unknown , mxa-0029ae01.gslb.pphosted.com
+Standard Register , stdreg.com ,  ,  , mail.tcmsp.net
+eMerge Interactive , emergeinteractive.com ,  , Google , aspmx.l.google.com
+Goody's Family Clothing , goodysonline.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Alexander & Baldwin , alexanderbaldwin.com ,  , own-domain , mail.alexanderbaldwin.com
+Daisytek International , daisytek.com , Cyren Web Security , unknown , p.webcom.ctmail.com
+Timberland , timberland.com , ProofPoint , unknown , mxa-00127801.gslb.pphosted.com
+American Management Systems , ams.com ,  , own-domain , mail1.ams.com
+C.R. Bard , crbard.com ,  , own-domain , smtpmail6.crbard.com
+PC Connection , pcconnection.com , ProofPoint , unknown , mx0b-001fa201.pphosted.com
+Thrivent , thrivent.com ,  , own-domain , irnprt002.thrivent.com
+Sinopec Group , sinopec.com ,  , own-domain , mailmx4.sinopec.com
+Volkswagen , vw.com ,  , own-domain , mg1.vw.com
+U.S. Postal Service , usps.com ,  , own-domain , gk-w-mail.srvs.usps.gov
+Compass Group , compass.com ,  , Google , aspmx.l.google.com
+Gazprom , gazprom.com ,  ,  , mailrelay.gazprom.ru
+Jardine Matheson , jardines.com , MessageLabs , unknown , cluster1.hk.messagelabs.com
+Sodexo , sodexo.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+Tesco , tesco.com , Forcepoint , unknown , cust7886-2.in.mailcontrol.com
+Carrefour , carrefour.com , ProofPoint , unknown , mxb-00150901.gslb.pphosted.com
+Siemens , siemens.com ,  , own-domain , hylas.siemens.com
+Toyota Motor , toyota.com , ProofPoint , unknown , mxa-001f1301.gslb.pphosted.com
+Finatis , finatis.com ,  , own-domain , mail.finatis.com
+Nestle , nestle.com ,  , Office365 , nestle-com.mail.protection.outlook.com
+Edeka Zentrale , edeka.com ,  ,  , mailin.edeka.de
+Hitachi , hitachi.com ,  , own-domain , hitiij.hitachi.co.jp
+Groupe Auchan , auchan.com ,  , Google , aspmx.l.google.com
+Sberbank , sberbank.ru ,  ,  , email11.sberbank.ru
+EXOR Group , exor.com ,  ,  , milter1.gruppoifi.com
+Samsung Electronics , samsung.com ,  , own-domain , mailin.samsung.com
+Accenture , accenture.com , ProofPoint , unknown , mx0b-001dcc01.pphosted.com
+Bosch , bosch.com ,  , own-domain , de-in2.bosch-org.com
+Hutchison Whampoa , hutch.net ,  , own-domain , mailgw1.mail.hutch.net
+Daimler , daimler.com ,  , own-domain , mail-in.daimler.com
+HSBC Holdings , hsbc.com ,  , own-domain , nwmailserver.hsbc.co.uk
+Panasonic , panasonic.co.jp ,  ,  , smtp.mei.co.jp
+AEON , aeon ,  ,  , 
+Rosneft Oil , rosneft.ru ,  ,  , mail10.rosneft.ru
+SNCF , sncf.com ,  ,  , mail-lyon3.sncf.fr
+Nippon Tel. & Tel. , ntt.com ,  , own-domain , cmcodfcs02.noc.ntt.com
+Sumitomo Electric Industries , sumitomo.com ,  , own-domain , mgex1.sumitomo.com
+Henan Energy & Chemical , henan ,  ,  , 
+Metro , metro.com , Trend Micro , unknown , in.hes.trendmicro.com
+ArcelorMittal , arcelormittal.com ,  , own-domain , mx1.geoip.arcelormittal.com
+Shanxi Coking Coal Group , sxcc.com.cn ,  ,  , mxa2.chinaemail.cn
+Ansteel Group , ansteel.cn ,  ,  , mx1.ansteel.cn
+JBS , jbs.com ,  ,  , mhs02.jbs.jp
+Fresenius , fresenius.com ,  ,  , mgw4.fresenius.de
+Shenhua Group , shenhua.com ,  ,  , mail.skrimple.com
+Shandong Energy Group , snjt.com ,  , own-domain , mail.snjt.com
+Honda Motor , honda.com ,  , own-domain , ahmppv5.honda.com
+Wesfarmers , wesfarmers.com.au , MessageLabs , unknown , cluster6.us.messagelabs.com
+Toshiba , toshiba.com ,  , Office365 , toshiba-com.mail.protection.outlook.com
+Woolworths , woolworths.com.au ,  , Google , aspmx.l.google.com
+Dongfeng Motor Group , dongfeng.com ,  ,  , mail.skrimple.com
+HCA Holdings , hca.com ,  , own-domain , mail1.hca.com
+Pegatron , pegatron.com ,  ,  , mail2.siteamerica.com
+Weston , weston.com ,  , Office365 , weston-com.mail.protection.outlook.com
+Onex , onex.com ,  , own-domain , mailto.onex.com
+Canon , canon.jp ,  ,  , mail.canon.jp
+Peugeot , peugeot.com ,  ,  , mail.mpsa.com
+Continental , continental-corporation.com ,  ,  , mailin3.rmx.de
+Banco Santander , santander.com ,  , own-domain , smtp.santandergroup.net
+Vinci , vinci.fr ,  ,  , mx1.vinci.fr
+Saint-Gobain , saint-gobain.com ,  , own-domain , mail7.saint-gobain.com
+BNP Paribas , bnp.com ,  ,  , mx.usa.net
+CITIC Group , citic.com ,  ,  , mxbiz1.qq.com
+Unilever , unilever.com ,  , Office365 , unilever-com.mail.protection.outlook.com
+Huawei Investment & Holding , huawei.com ,  , own-domain , mx5.huawei.com
+Schneider Electric , schneider.com ,  , Office365 , schneider-com.mail.protection.outlook.com
+Datong Coal Mine Group , datong ,  ,  , 
+ThyssenKrupp , thyssenkrupp.com ,  ,  , dsc-ffm-mx1.mas.t-systems-service.com
+Veolia Environnement , veolia.com ,  , Google , aspmx.l.google.com
+Fujitsu , fujitsu.com ,  , own-domain , mx1.jp.fujitsu.com
+Orange , orange.com ,  , own-domain , relais-nor19.orange.com
+Yangquan Coal Industry Group , yangquan ,  ,  , 
+Anheuser-Busch InBev , anheuser-busch.com , ProofPoint , unknown , mxa-000c8e03.gslb.pphosted.com
+Societe Generale , socgen.com ,  , own-domain , mail.iap.socgen.com
+PDVSA , pdvsa.com ,  , own-domain , mail.pdvsa.com
+Flextronics International , flextronics.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Nissan Motor , nissan.com ,  , emailsrvr.com , mx1.emailsrvr.com
+Jizhong Energy Group , jznyjt ,  ,  , 
+Allianz , grupoacs.com ,  , Office365 , grupoacs-com.mail.protection.outlook.com
+Denso , denso.com ,  , own-domain , ma-dnext00.denso.co.jp
+Shanxi Jincheng Anthracite Coal Mining , jamg.cn ,  ,  , 10.0.66.29
+Pemex , pemex.com ,  , Office365 , pemex.mail.protection.outlook.com
+Bridgestone , bridgestone.com ,  , own-domain , bc710016.bridgestone.co.jp
+China Huaneng Group , chng.com.cn ,  ,  , 124.17.25.194
+Shaanxi Yanchang Petroleum , sxycpc.com ,  , own-domain , mail.sxycpc.com
+ABB , abb.com ,  , Office365 , abb-com.mail.protection.outlook.com
+Shougang Group , shougang.com ,  ,  , mail.skrimple.com
+Airbus Group , airbus.com ,  , own-domain , vip-smtp.airbus.gmessaging.net
+Baosteel Group , baosteel.com ,  , own-domain , mailgw1.baosteel.com
+Novartis , novartis.com , ProofPoint , unknown , mx08-0019ad02.pphosted.com
+Barclays , barclays.com , MessageLabs , unknown , cluster3.eu.messagelabs.com
+HeBei Iron & Steel Group , hbisco.com ,  , own-domain , mailzf.hbisco.com
+Sony , sony.com ,  , Office365 , sony-com.mail.protection.outlook.com
+Magna International , magna.com ,  , own-domain , mail1.magna.com
+Mitsubishi Electric , mitsubishi.com ,  , own-domain , mitsubishi.com
+UniCredit Group , unicredit.com ,  ,  , mx02.unicredit.eu
+Bouygues , bouygues.com ,  , Office365 , bouygues-com.mail.protection.outlook.com
+Royal Ahold , aholddelhaize.com ,  , Google , aspmx.l.google.com
+Mitsubishi UFJ Financial Group , mufg.jp ,  ,  , msgw.bk.mufg.jp
+Telefonica , telefonica.com ,  , Office365 , telefonicacorp.mail.protection.outlook.com
+Shandong Weiqiao Pioneering , weiqiaocy ,  ,  , 
+Sinomach , sinomach.com ,  , Office365 , sinomach-com.mail.protection.partner.outlook.cn
+COFCO , cofco.com ,  , own-domain , mx1.cofco.com
+Quanta Computer , quanta.com ,  , own-domain , mail.quanta.com
+Schlumberger , schlumberger.com ,  ,  , mail8.reachmail.net
+A.P. Moller-Maersk A/S , maersk.com ,  , Office365 , maersk-com.mail.protection.outlook.com
+Bayer , bayer.com ,  ,  , smtpmx01.bayer.de
+Lufthansa Group , lufthansa.com ,  ,  , mx4.lhsystems.com
+Ericsson , ericsson.com ,  , own-domain , sesbmg14.ericsson.net
+Jinneng Group , jinneng ,  ,  , 
+Renault , renault.com ,  ,  , smtp.renault.fr
+BMW , bmw.com , Cisco , unknown , mx1.bmw.c3s2.iphmx.com
+China National Offshore Oil , cnooc.com.cn ,  , own-domain , mail.cnooc.com.cn
+Delhaize Group , delhaize.com , ProofPoint , unknown , mxa-00259c01.gslb.pphosted.com
+Sanofi , sanofi.com ,  , own-domain , xspz11s656b.sanofi.com
+BASF , basf.com ,  , Office365 , basf.mail.protection.outlook.com
+China Communications Construction , ccccltd.cn ,  ,  , mail.ccccltd.cn
+HNA Group , hna.com ,  , GoDaddy , smtp.secureserver.net
+Banco do Brasil , bb.com.br ,  ,  , srdfmailer01.bb.com.br
+Itochu , itochu.com , Mimecast , unknown , us-smtp-inbound-1.mimecast.com
+Lukoil , lukoil.com ,  , own-domain , srt-mx3.lukoil.com
+Hyundai Motor , hyundai.com ,  , own-domain , mail.hyundai.com
+Royal Bank of Scotland Group , rbs.com ,  , own-domain , mail17.rbs.com
+Sainsburys , sainsburys.com , MessageLabs , unknown , cluster1.eu.messagelabs.com
+Christian Dior , dior.com ,  , own-domain , mx.dior.com
+Glencore , glencore.com ,  , own-domain , mail1.glencore.com
+Michelin , michelin.com , MessageLabs , unknown , cluster1.eu.messagelabs.com
+Vodafone Group , vodafone.com , MessageLabs , unknown , cluster5.eu.messagelabs.com
+Mondelez International , mondelez.com , CSC Global , unknown , custmx.cscdns.net
+Wuhan Iron & Steel , wugangaustralia ,  ,  , 
+VTB Bank , vtb.ru ,  ,  , post.vtb.ru
+Total , total.com ,  , own-domain , mail01.par.totalfinaelf.net
+China Datang , cccme.org.cn ,  ,  , qiye163mx01.mxmail.netease.com
+Danone , danone.com , MessageLabs , unknown , cluster5.eu.messagelabs.com
+ChemChina , chemchina.com ,  , own-domain , smtp01.chemchina.com
+NEC , nec.com ,  , Office365 , nec-com.mail.protection.outlook.com
+Volvo , volvo.com ,  , own-domain , mail-gw1.it.volvo.com
+Deutsche Bank , db.com ,  , own-domain , smtp1.db.com
+GlaxoSmithKline , gsk.com ,  , Office365 , gsk-com.mail.protection.outlook.com
+AXA , axa.com ,  , own-domain , mrelay2.axa.com
+Sinopharm , sinopharm.com ,  , own-domain , mail.sinopharm.com
+Air France-KLM Group , klm.com , Cisco , unknown , mx1.afkl.c3s2.iphmx.com
+Air France-KLM Group , airfrance.fr , Cisco , unknown , mx1.afkl.c3s2.iphmx.com
+Royal Dutch Shell , shell.com ,  , Office365 , shell-com.mail.protection.outlook.com
+CFE , cfe.com ,  ,  , mail.rfe.net
+SAIC Motor , saic.com ,  , own-domain , EM-MXP01.saic.com
+Wilmar International , wilmar.com , ProofPoint , unknown , mx0b-000e6603.pphosted.com
+Alstom , alstom.com ,  , Office365 , alstom-com.mail.protection.outlook.com
+Intesa Sanpaolo , intesasanpaolo.com ,  , own-domain , mail1.intesasanpaolo.com
+Roche Group , roche.com ,  , own-domain , mailgate3.roche.com
+BT Group , bt.com ,  ,  , smtpe1.intersmtp.com
+Morrisons , morrisons.com ,  , Google , aspmx.l.google.com
+BP , bp.com , MessageLabs , unknown , cluster8.us.messagelabs.com
+Lloyds Banking Group , lloyds.com , ProofPoint , unknown , mxa-00164201.gslb.pphosted.com
+ENI , eni.com ,  , Office365 , enispa.mail.protection.outlook.com
+LG Electronics , lg.com ,  , own-domain , spam.lg.com
+Mitsubishi Heavy Industries , mhi.co.jp , MessageLabs , unknown , cluster1.us.messagelabs.com
+SK Holdings , sk.com ,  , own-domain , spmail.sk.com
+Toronto-Dominion Bank , tdbank.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Petrobras , petrobras.com ,  , own-domain , correio2.petrobras.com.br
+Loreal , loreal.com ,  , own-domain , smtp1.loreal.com
+TUI , tui.com , Forcepoint , unknown , cust1976-3.in.mailcontrol.com
+Vale , vale.com , Cisco , unknown , esa1.vale.iphmx.com
+Heineken Holding , heineken.com ,  , Office365 , heineken-com.mail.protection.outlook.com
+BAE Systems , bae.com ,  , own-domain , bae.com
+CRH , crh.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+Tata Motors , tata.com ,  , Office365 , tata-com.mail.protection.outlook.com
+Sumitomo , sumitomo.com ,  , own-domain , mgex1.sumitomo.com
+Migros Group , migros.com ,  ,  , migze122.migros.ch
+Royal Bank of Canada , rbc.com ,  , own-domain , vmx.rbc.com
+Credit Agricole , credit-agricole.fr ,  ,  , mercure.credit-agricole.fr
+Mitsubishi Corp. , mitsubishi.com ,  , own-domain , mitsubishi.com
+Enel , enel.com , ProofPoint , unknown , mxb-0023ba01.gslb.pphosted.com
+ING Group , ing.com ,  , own-domain , mail205.ing.net
+Xinxing Cathay International , xxcig.com ,  ,  , mxbiz1.qq.com
+Bohai Steel Group , bohai ,  ,  , 
+SoftBank Group , softbank.com ,  , Google , aspmx.l.google.com
+Coop Group , coop.ch ,  ,  , mail20.coop.ch
+Compal Electronics , compal.com ,  , own-domain , exmail3.compal.com
+Guangzhou Automobile Industry Group , gagc.com.cn ,  , own-domain , mail.gagc.com.cn
+Old Mutual , oldmutual.co.uk ,  ,  , smtp.sifutures.com
+Kailuan Group , kailuan ,  ,  , 
+UBS Group , ubs.com ,  , own-domain , mx11.ubs.open.ch
+Lenovo Group , lenovo.com , MessageLabs , unknown , cluster9.us.messagelabs.com
+RWE , rwe.com ,  , Office365 , rwe-com.mail.protection.outlook.com
+Rio Tinto Group , riotinto.com , FireEye , unknown , smf.inline.email.fireeyecloud.com
+JFE Holdings , jfe.com ,  , own-domain , mail.jfe.com
+AstraZeneca , astrazeneca.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+Suzuki Motor , suzuki.com ,  , own-domain , mail.suzuki.com
+Mizuho Financial Group , mizuho.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Sinochem , sinochem.com ,  , own-domain , mailc.sinochem.com
+Rolls-Royce Holdings , rolls-royce.com , Cisco , unknown , mx2.rolls-royce.c3s2.iphmx.com
+Dai-ichi Life Insurance , dai-ichi.com ,  ,  , mail40.heteml.jp
+Petronas , petronas.com ,  ,  , mx1.hc77-30.r1.ces.cisco.com
+Industrial Bank , cib.com.cn ,  , own-domain , smtp.cib.com.cn
+LG Display , lg.com ,  , own-domain , spam.lg.com
+Sharp , sharp.com , Cisco , unknown , mx1.sharp.iphmx.com
+Kia Motors , kia.com ,  , own-domain , mail.kia.com
+Rabobank , rabobank.com ,  , own-domain , mailrelay1.rabobank.com
+Perusahaan Listrik Negara , pln.co.id ,  ,  , mx0.pln.co.id
+Mitsui , mitsui.com , MessageLabs , unknown , cluster4.us.messagelabs.com
+BHP Billiton , bhp.com , ProofPoint , unknown , mxb-00242401.gslb.pphosted.com
+Credit Suisse Group , credit-suisse.com ,  , own-domain , mail.credit-suisse.com
+Commonwealth Bank , commonwealth.com ,  ,  , smtp1w.cfnmail.com
+Mazda Motor , mazda.com ,  , own-domain , mail1.mazdausa.com
+Taiwan Semiconductor , tsmc.com ,  , own-domain , mg.tsmc.com
+Munich Re , munichre.com , ProofPoint , unknown , mx07-002b1401.pphosted.com
+Meiji Yasuda Life Insurance , meijiyasuda.co.jp ,  , Office365 , meijiyasuda-co-jp.mail.protection.outlook.com
+SABIC , sabic.com , MessageLabs , unknown , cluster4.eu.messagelabs.com
+Marubeni , marubeni.com , MessageLabs , unknown , cluster5.us.messagelabs.com
+Centrica , centrica.com , MessageLabs , unknown , cluster3.eu.messagelabs.com
+POSCO , posco.com ,  , own-domain , antispam.posco.net
+Mapfre Group , mapfre.com ,  , own-domain , estafeta2.mapfre.com
+Westpac Banking , westpac.com ,  ,  , mx1.netsolmail.net
+Sompo Japan Nipponkoa , sjnk.co.jp ,  , Google , aspmx.l.google.com
+Bunge , bunge.com ,  , Google , aspmx.l.google.com
+Hanwha , hanwha.com ,  , own-domain , spam1.hanwha.co.kr
+Indian Oil , iocl.com ,  , own-domain , mail.iocl.com
+Tokio Marine Holdings , tokiomarine.com , MessageLabs , unknown , cluster1.us.messagelabs.com
+Vivendi , vivendi.com ,  , own-domain , mail.vivendi.net
+Kansai Electric Power , kepco.co.jp ,  ,  , smtp-dr.kanden.ne.jp
+Oil & Natural Gas , ongcindia ,  ,  , 
+Telstra , telstra.com ,  ,  , extmail.bigpond.com
+Adecco Group , adecco.com ,  , Office365 , adecco-com.mail.protection.outlook.com
+DirecTV , directv.com , ProofPoint , unknown , mx0b-00191d01.pphosted.com
+Chubu Electric Power , chuden.co.jp ,  , Office365 , chuden-co-jp.mail.protection.outlook.com
+Vattenfall , vattenfall.com ,  ,  , mx11.vattenfall.de
+Manulife Financial , manulife.com , FireEye , unknown , primary.us.email.fireeyecloud.com
+Aegon , aegon.com , ProofPoint , unknown , mxa-00099f01.gslb.pphosted.com
+KDDI , kddi.com ,  , own-domain , post-gate.kddi.com
+Iberdrola , iberdrola.com ,  , own-domain , sol2.iberdrola.com
+DZ Bank , dzbank.de ,  ,  , mg2.dzbank.de
+Lotte Shopping , lotte.com ,  , own-domain , maps.lotte.com
+Pertamina , pertamina.com ,  , own-domain , mx6.pertamina.com
+Jiangxi Copper , jxcc.com ,  , own-domain , jtmail.jxcc.com
+Twenty-First Century Fox , fox.com , ProofPoint , unknown , mxb-00195501.gslb.pphosted.com
+JX Holdings , jxtg-group.co.jp ,  , Office365 , jxtggroup-co-jp01b.mail.protection.outlook.com
+Aviva , aviva.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+PTT , pttplc.com ,  , own-domain , mailcleaner2.pttplc.com
+OMV Group , omv.com ,  , own-domain , edge2.omv.com
+Power Corp. of Canada , powercorporation.com ,  , own-domain , smtp1.powercorporation.com
+Reliance Industries , relianceada.com ,  , own-domain , mlmb040.relianceada.com
+AntarChile , antarchile.cl ,  , Office365 , antarchile-cl.mail.protection.outlook.com
+Repsol , repsol.com ,  , own-domain , smtpca2.repsol.com
+Statoil , statoil.com ,  , Office365 , statoil-com.mail.protection.outlook.com
+Ingram Micro , ingram.com , ProofPoint , unknown , mxa-0022c701.gslb.pphosted.com
+CEFC China Energy , cefc.co ,  ,  , qiye163mx01.mxmail.netease.com
+PKN ORLEN Group , orlen.pl ,  ,  , mx2.orlen.pl
+AIA Group , aia.com , ProofPoint , unknown , mx08-002b4701.pphosted.com
+SSE , sse.com , ProofPoint , unknown , mx07-002adc01.pphosted.com
+Talanx , talanx.com ,  ,  , mx10.htp-mailer.de
+Tewoo Group , tewoo.com ,  ,  , mxwcom.263xmail.com
+Amer International Group , amer.com.cn ,  , own-domain , mail.amer.com.cn
+Achmea , achmea.com ,  ,  , smtpgate-nl2.achmea.nl
+CPC , cpc.com ,  , Office365 , cpc-com.mail.protection.outlook.com
+Medipal Holdings , medipal.com , Carrier Zone , unknown , mx1c40.carrierzone.com
+Suncor Energy , suncor.com , MessageLabs , unknown , cluster6.us.messagelabs.com
+Ultrapar Holdings , ultrapar.com ,  , Google , ASPMX.L.GOOGLE.com
+Bharat Petroleum , bharatpetroleum.com ,  , own-domain , comessenger2.bharatpetroleum.com
+Unipol , unipol.it ,  ,  , smtp3.gr-u.it
+LyondellBasell Industries , lyondellbasell.com , Cisco , unknown , mx2.lyondellbasell.iphmx.com
+Swiss Re , swissre.com , MessageLabs , unknown , cluster8.eu.messagelabs.com
+CHS , chs.com , Barracuda , unknown , d63761a.ess.barracudanetworks.com
+Ecopetrol , ecopetrol.com ,  ,  , mail.messaging.microsoft.com
+Enbridge , enbridge.com , Cisco , unknown , esa1.enbridge.ca.iphmx.com
+Idemitsu Kosan , idemitsu.com ,  ,  , mx.securemx.jp
+Cosmo Oil , cosmo-oil.co.jp , ProofPoint , unknown , mxa-00266001.gslb.pphosted.com
+Trafigura Beheer , trafigura.com ,  ,  , mail10.smtpdaemon.net
+CNP Assurances , cnp.com , ProofPoint , unknown , mx2-us1.ppe-hosted.com
+TonenGeneral Sekiyu , jxtg-group.co.jp ,  , Office365 , jxtggroup-co-jp01b.mail.protection.outlook.com
+S-Oil , s-oil.com ,  , own-domain , spam.s-oil.com
+Noble Group , thisisnoble.com ,  , Office365 , thisisnoble-com.mail.protection.outlook.com
+Greenergy Fuels Holdings , greenergy.com , Mimecast , unknown , eu-smtp-inbound-1.mimecast.com
+GasTerra , gasterra.com ,  ,  , smtpscan-nl2.gasterra.nl

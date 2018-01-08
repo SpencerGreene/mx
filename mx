@@ -53,11 +53,11 @@ def parse_stdin_csv():
     result = []
     for line in fileinput.input():
         words = line.rstrip("\r\n").split(',')
-        result.append([words[1], words[2]])
+        result.append([words[1], words[2], words[5]])
     return result
 
 def print_record(company, domain, sgw, mgw, mx):
-    print company, ",", domain, ",", sgw, ",", mgw, ",", mx
+    print "#, ", company, ",", domain, ",", sgw, ",", mgw, ",", mx
 
 if len(sys.argv) > 1:
     records = [ ["", d] for d in sys.argv[1:]]
@@ -70,18 +70,23 @@ def find_gateway(mx, gateway_dict):
             return gateway_dict[hostname]
     return ""
 
+def base_of(domain):
+    result = domain
+    for tld in TLDs:
+        if result[-len(tld):] == tld:
+            result = result[:-len(tld)]
+    return result
+
 # begin
 print_record("Company", "Domain", "SecurityGateway", "Mail Domain", "MX")
 
 for record in records:
     company = record[0]
     domain = record[1]
+    old_mx = record[2]
     answers = []
 
-    base_domain = domain
-    for tld in TLDs:
-        if base_domain[-len(tld):] == tld:
-            base_domain = base_domain[:-len(tld)]
+    base_domain = base_of(domain)
 
     try:
         answers = dns.resolver.query(domain, 'MX')
